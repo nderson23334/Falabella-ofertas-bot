@@ -53,6 +53,7 @@ class Deal:
     current_price: float | None
     reference_price: float | None
     seller: str | None
+    image_url: str | None
     badges: tuple[str, ...]
 
     @property
@@ -460,6 +461,30 @@ class Scanner:
                   "h1,h2,h3,h4,[data-testid*='title'],[class*='title'],[class*='name']"
                 );
                 const image = node.querySelector("img");
+                let imageUrl = "";
+                if (image) {
+                  const candidates = [
+                    image.currentSrc,
+                    image.getAttribute("src"),
+                    image.getAttribute("data-src"),
+                    image.getAttribute("data-lazy-src"),
+                    image.getAttribute("data-original")
+                  ].filter(Boolean);
+                  const srcset = image.getAttribute("srcset") || image.getAttribute("data-srcset") || "";
+                  if (srcset) {
+                    const last = srcset.split(",").map(x => x.trim().split(/\s+/)[0]).filter(Boolean).pop();
+                    if (last) candidates.unshift(last);
+                  }
+                  for (const candidate of candidates) {
+                    try {
+                      const absolute = new URL(candidate, location.href).href;
+                      if (/^https?:\/\//i.test(absolute)) {
+                        imageUrl = absolute;
+                        break;
+                      }
+                    } catch (_) {}
+                  }
+                }
                 const title =
                   clean(titleElement?.innerText) ||
                   clean(anchor.getAttribute("aria-label")) ||
@@ -489,6 +514,7 @@ class Scanner:
                   discount: Math.max(...discounts),
                   prices: [...new Set(prices)].slice(0, 5),
                   seller: sellerMatch ? sellerMatch[1].trim() : "",
+                  image_url: imageUrl,
                   badges
                 });
               }
@@ -523,6 +549,7 @@ class Scanner:
                         current_price=current_price,
                         reference_price=reference_price,
                         seller=re.sub(r"\s+", " ", str(item.get("seller", ""))).strip()[:120] or None,
+                        image_url=str(item.get("image_url", "")).strip() or None,
                         badges=tuple(str(x).strip() for x in item.get("badges", []) if str(x).strip()),
                     ))
             return output
