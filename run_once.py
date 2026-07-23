@@ -162,7 +162,7 @@ async def main() -> None:
     state.load()
 
     print('=== INICIO DE REVISION ===', flush=True)
-    print(f'Fuentes configuradas: {len([s for s in sources if s.enabled])}', flush=True)
+    print(f'Fuentes configuradas: {len(sources)}', flush=True)
     deals, errors, pages_scanned = await Scanner(settings).scan(sources)
     alerts = select_alerts(deals, state, settings)
     print(f'Paginas revisadas: {pages_scanned}', flush=True)
