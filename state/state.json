@@ -46,7 +46,7 @@
       "reference_price": 129.9,
       "discount": 72,
       "first_seen": 1784790215,
-      "last_seen": 1784796271,
+      "last_seen": 1784826877,
       "last_notified": 1784790215
     },
     "597c86c0435f51c29b75809b7ad7a04780978824dd9506fd4f795101acbb6552": {
@@ -94,7 +94,7 @@
       "reference_price": 199.9,
       "discount": 70,
       "first_seen": 1784790215,
-      "last_seen": 1784790215,
+      "last_seen": 1784826877,
       "last_notified": 1784790215
     },
     "971da88b3126e34b4fd85e720298ef9154ec58adb18295be9e7e9ccb550a42ff": {
@@ -118,7 +118,7 @@
       "reference_price": 299.9,
       "discount": 70,
       "first_seen": 1784790215,
-      "last_seen": 1784796271,
+      "last_seen": 1784826877,
       "last_notified": 1784790215
     },
     "da0c636a46c6cc404f3265bb865a8740ad48dfe607a82c87692db5819179d526": {
@@ -790,7 +790,7 @@
       "reference_price": 89.9,
       "discount": 72,
       "first_seen": 1784796271,
-      "last_seen": 1784796271,
+      "last_seen": 1784826877,
       "last_notified": 1784796271
     },
     "a4c93a4157a482280f524956ce99fb0b1c0f9e2bd330e46320ae0eef2c2c6b35": {
@@ -924,6 +924,102 @@
       "first_seen": 1784796271,
       "last_seen": 1784796271,
       "last_notified": 1784796271
+    },
+    "3efb3a58ca2b3f5dcb5b49b13476a7c19946f4fa1bbf3c457a6ec9f012778292": {
+      "title": "DOO AUSTRALIA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883675173/chiporro-flecha-flores-ivory-m/883675181",
+      "source": "Falabella - Moda Mujer",
+      "seller": "FALABELLA",
+      "current_price": 34.9,
+      "reference_price": 129.9,
+      "discount": 73,
+      "first_seen": 1784826877,
+      "last_seen": 1784826877,
+      "last_notified": 1784826877
+    },
+    "f17e0b7d56cb99deca8c41896b25ee408c2b877323f88be7b312a7ffe47b44ec": {
+      "title": "DENIMLAB",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883730149/casaca-mujer-denimlab/883730159",
+      "source": "Falabella - Moda Mujer",
+      "seller": "FALABELLA",
+      "current_price": 49.9,
+      "reference_price": 179.9,
+      "discount": 72,
+      "first_seen": 1784826877,
+      "last_seen": 1784826877,
+      "last_notified": 1784826877
+    },
+    "264fad866c2d0140bcf81975d8798e55eb266163edc067564b4741b16f98bba4": {
+      "title": "UNIVERSITY CLUB",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883674731/casaca-plumas-dk-fungi-s/883674740",
+      "source": "Falabella - Moda Mujer",
+      "seller": "FALABELLA",
+      "current_price": 69.9,
+      "reference_price": 249.9,
+      "discount": 72,
+      "first_seen": 1784826877,
+      "last_seen": 1784826877,
+      "last_notified": 1784826877
+    },
+    "1d79782a951d95962cecad7db4a8f5fbfc84868747bcbf11a8d635bfe7c48509": {
+      "title": "STEFANO COCCI",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883678571/casaca-mujer-stefano-cocci/883678588",
+      "source": "Falabella - Moda Mujer",
+      "seller": "FALABELLA",
+      "current_price": 49.9,
+      "reference_price": 169.9,
+      "discount": 71,
+      "first_seen": 1784826877,
+      "last_seen": 1784826877,
+      "last_notified": 1784826877
+    },
+    "1b9ff743deff921187667a757875241e68fcbe90b19548695471ad9f2f42d7b7": {
+      "title": "NEWPORT",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883676962/casaca-mujer-newport/883676970",
+      "source": "Falabella - Moda Mujer",
+      "seller": "FALABELLA",
+      "current_price": 49.9,
+      "reference_price": 169.9,
+      "discount": 71,
+      "first_seen": 1784826877,
+      "last_seen": 1784826877,
+      "last_notified": 1784826877
+    },
+    "eef1b060ebac8cb6e45502116f7633327b7ba5119b739f860accced40c44e5a9": {
+      "title": "DIADORA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883735802/casaca-deportiva-hombre-diadora/883735812",
+      "source": "Falabella - Deportes",
+      "seller": "FALABELLA",
+      "current_price": 44.9,
+      "reference_price": 149.9,
+      "discount": 70,
+      "first_seen": 1784826877,
+      "last_seen": 1784826877,
+      "last_notified": 1784826877
+    },
+    "9ac8122e2a4b58b0890372c41673fe9e2d09edc6889209cb82ccbb04e5915d19": {
+      "title": "AMERICAN ABBEY",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883674982/parka-moda-bomber-burgundy-sas-s/883674987",
+      "source": "Falabella - Moda Mujer",
+      "seller": "FALABELLA",
+      "current_price": 59.9,
+      "reference_price": 199.9,
+      "discount": 70,
+      "first_seen": 1784826877,
+      "last_seen": 1784826877,
+      "last_notified": 1784826877
+    },
+    "502869af162175602aef8d3402328f6697f1c0d7d818d3deaca9b9e47d6f0a0a": {
+      "title": "DIADORA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883642631/zapatillas-urbanas-mujer-diadora/883642636",
+      "source": "Falabella - Zapatillas",
+      "seller": "FALABELLA",
+      "current_price": 68.97,
+      "reference_price": 229.9,
+      "discount": 70,
+      "first_seen": 1784826877,
+      "last_seen": 1784826877,
+      "last_notified": 1784826877
     }
   }
 }
