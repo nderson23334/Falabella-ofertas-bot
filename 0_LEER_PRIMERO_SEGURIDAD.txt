@@ -1,0 +1,9 @@
+VERSIÓN SEGURA CON REINTENTOS
+
+- No imprime el token de Telegram.
+- Usa explícitamente el Python del entorno privado `.venv`.
+- Reintenta automáticamente los cortes temporales de Internet.
+- Espera cuando Telegram limita temporalmente los mensajes.
+
+Antes de usarla, revoca cualquier token que haya aparecido en una fotografía
+y genera uno nuevo desde BotFather.

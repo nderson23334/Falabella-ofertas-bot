@@ -1,0 +1,74 @@
+{
+  "settings": {
+    "min_discount": 50,
+    "max_alerts": 20,
+    "price_drop_percent": 3,
+    "discount_increase": 3,
+    "seller_mode": "all",
+    "include_keywords": [],
+    "exclude_keywords": [
+      "reacondicionado",
+      "open box"
+    ],
+    "pause_seconds": 3,
+    "robots_required": true,
+    "user_agent": "FalabellaDealMonitor/2.0 (monitor personal)",
+    "headless": true
+  },
+  "sources": [
+    {
+      "name": "Falabella - Ofertas generales",
+      "url": "https://www.falabella.com.pe/falabella-pe/collection/ofertas",
+      "min_discount": 50,
+      "pages": 2,
+      "max_items": 45,
+      "scroll_rounds": 4,
+      "enabled": true
+    },
+    {
+      "name": "Falabella - Tecnología",
+      "url": "https://www.falabella.com.pe/falabella-pe/category/cat40793/Tecnologia",
+      "min_discount": 50,
+      "pages": 1,
+      "max_items": 35,
+      "scroll_rounds": 3,
+      "enabled": true
+    },
+    {
+      "name": "Falabella - Electrohogar",
+      "url": "https://www.falabella.com.pe/falabella-pe/category/cat40584/Electrohogar",
+      "min_discount": 50,
+      "pages": 1,
+      "max_items": 35,
+      "scroll_rounds": 3,
+      "enabled": true
+    },
+    {
+      "name": "Falabella - Zapatillas",
+      "url": "https://www.falabella.com.pe/falabella-pe/category/cat1470548/Zapatillas",
+      "min_discount": 50,
+      "pages": 1,
+      "max_items": 35,
+      "scroll_rounds": 3,
+      "enabled": true
+    },
+    {
+      "name": "Falabella - Deportes",
+      "url": "https://www.falabella.com.pe/falabella-pe/category/cat40571/Deportes-y-aire-libre",
+      "min_discount": 50,
+      "pages": 1,
+      "max_items": 35,
+      "scroll_rounds": 3,
+      "enabled": true
+    },
+    {
+      "name": "Falabella - Moda Mujer",
+      "url": "https://www.falabella.com.pe/falabella-pe/category/cat4100462/Moda-Mujer",
+      "min_discount": 50,
+      "pages": 1,
+      "max_items": 35,
+      "scroll_rounds": 3,
+      "enabled": true
+    }
+  ]
+}
