@@ -1,10 +1,10 @@
 {
   "settings": {
-    "min_discount": 50,
+    "min_discount": 70,
     "max_alerts": 20,
     "price_drop_percent": 3,
     "discount_increase": 3,
-    "seller_mode": "all",
+    "seller_mode": "falabella_only",
     "include_keywords": [],
     "exclude_keywords": [
       "reacondicionado",
@@ -19,7 +19,7 @@
     {
       "name": "Falabella - Ofertas generales",
       "url": "https://www.falabella.com.pe/falabella-pe/collection/ofertas",
-      "min_discount": 50,
+      "min_discount": 70,
       "pages": 2,
       "max_items": 45,
       "scroll_rounds": 4,
@@ -28,7 +28,7 @@
     {
       "name": "Falabella - Tecnología",
       "url": "https://www.falabella.com.pe/falabella-pe/category/cat40793/Tecnologia",
-      "min_discount": 50,
+      "min_discount": 70,
       "pages": 1,
       "max_items": 35,
       "scroll_rounds": 3,
@@ -37,7 +37,7 @@
     {
       "name": "Falabella - Electrohogar",
       "url": "https://www.falabella.com.pe/falabella-pe/category/cat40584/Electrohogar",
-      "min_discount": 50,
+      "min_discount": 70,
       "pages": 1,
       "max_items": 35,
       "scroll_rounds": 3,
@@ -46,7 +46,7 @@
     {
       "name": "Falabella - Zapatillas",
       "url": "https://www.falabella.com.pe/falabella-pe/category/cat1470548/Zapatillas",
-      "min_discount": 50,
+      "min_discount": 70,
       "pages": 1,
       "max_items": 35,
       "scroll_rounds": 3,
@@ -55,7 +55,7 @@
     {
       "name": "Falabella - Deportes",
       "url": "https://www.falabella.com.pe/falabella-pe/category/cat40571/Deportes-y-aire-libre",
-      "min_discount": 50,
+      "min_discount": 70,
       "pages": 1,
       "max_items": 35,
       "scroll_rounds": 3,
@@ -64,7 +64,7 @@
     {
       "name": "Falabella - Moda Mujer",
       "url": "https://www.falabella.com.pe/falabella-pe/category/cat4100462/Moda-Mujer",
-      "min_discount": 50,
+      "min_discount": 70,
       "pages": 1,
       "max_items": 35,
       "scroll_rounds": 3,
