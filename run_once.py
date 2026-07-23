@@ -25,23 +25,35 @@ logging.getLogger("httpx").setLevel(logging.WARNING)
 logging.getLogger("httpcore").setLevel(logging.WARNING)
 
 
-async def send_message(
+async def send_telegram(
     token: str,
     chat_id: str,
     text: str,
     url: str | None = None,
+    image_url: str | None = None,
     attempts: int = 4,
 ) -> None:
-    payload = {
-        "chat_id": chat_id,
-        "text": text,
-        "parse_mode": "HTML",
-        "disable_web_page_preview": False,
-    }
+    reply_markup = None
     if url:
-        payload["reply_markup"] = json.dumps(
+        reply_markup = json.dumps(
             {"inline_keyboard": [[{"text": "🛒 Ver oferta", "url": url}]]}
         )
+
+    # Telegram limita el pie de foto a 1024 caracteres.
+    use_photo = bool(image_url) and len(text) <= 1000
+    method = "sendPhoto" if use_photo else "sendMessage"
+    payload = {
+        "chat_id": chat_id,
+        "parse_mode": "HTML",
+    }
+    if use_photo:
+        payload["photo"] = image_url
+        payload["caption"] = text
+    else:
+        payload["text"] = text
+        payload["disable_web_page_preview"] = False
+    if reply_markup:
+        payload["reply_markup"] = reply_markup
 
     last_status: int | None = None
 
@@ -58,10 +70,21 @@ async def send_message(
                 follow_redirects=True,
             ) as client:
                 response = await client.post(
-                    f"https://api.telegram.org/bot{token}/sendMessage",
+                    f"https://api.telegram.org/bot{token}/{method}",
                     data=payload,
                 )
                 last_status = response.status_code
+
+                # Algunas imágenes no son aceptadas por Telegram. En ese caso,
+                # reintentamos el mismo aviso como mensaje normal.
+                if use_photo and response.status_code == 400:
+                    method = "sendMessage"
+                    use_photo = False
+                    payload.pop("photo", None)
+                    payload.pop("caption", None)
+                    payload["text"] = text
+                    payload["disable_web_page_preview"] = False
+                    continue
 
                 if response.status_code == 429:
                     retry_after = 5
@@ -106,12 +129,10 @@ async def send_message(
             if attempt < attempts:
                 await asyncio.sleep(min(2 ** attempt, 15))
                 continue
-
             raise RuntimeError(
                 "La conexión con Telegram se interrumpió varias veces. "
-                "Revisa el Internet y vuelve a ejecutar la prueba."
+                "Vuelve a intentar más tarde."
             ) from None
-
         except httpx.HTTPError:
             if attempt < attempts:
                 await asyncio.sleep(min(2 ** attempt, 15))
@@ -140,8 +161,17 @@ async def main() -> None:
     state = State(Path("state/state.json"))
     state.load()
 
+    print('=== INICIO DE REVISION ===', flush=True)
+    print(f'Fuentes configuradas: {len([s for s in sources if s.enabled])}', flush=True)
     deals, errors, pages_scanned = await Scanner(settings).scan(sources)
     alerts = select_alerts(deals, state, settings)
+    print(f'Paginas revisadas: {pages_scanned}', flush=True)
+    print(f'Ofertas que cumplen filtros: {len(deals)}', flush=True)
+    print(f'Alertas nuevas o mejoradas: {len(alerts)}', flush=True)
+    if errors:
+        print('Incidencias detectadas:', flush=True)
+        for err in errors[:10]:
+            print(f'- {err}', flush=True)
 
     now = int(time.time())
     notified: set[str] = set()
@@ -201,11 +231,13 @@ async def main() -> None:
         )
 
         try:
-            await send_message(token, chat_id, message, deal.url)
+            await send_telegram(token, chat_id, message, deal.url, deal.image_url)
             notified.add(deal.key)
+            print(f'ENVIADA: {deal.discount}% | {deal.title[:90]}', flush=True)
         except RuntimeError as exc:
             send_errors.append(str(exc))
             logging.error("No se pudo enviar una alerta: %s", exc)
+            print(f'ERROR DE ENVIO: {exc}', flush=True)
 
         await asyncio.sleep(1.2)
 
@@ -218,24 +250,37 @@ async def main() -> None:
     all_errors = list(errors)
     all_errors.extend(send_errors[:3])
 
-    if all_errors or not alerts:
-        summary = (
-            "✅ <b>Revisión terminada</b>\n\n"
-            f"📄 Páginas revisadas: {pages_scanned}\n"
-            f"🏷️ Ofertas filtradas: {len(deals)}\n"
-            f"📨 Alertas enviadas: {len(notified)}"
+    summary = (
+        "🤖 <b>Bot de ofertas ejecutado</b>\n\n"
+        f"📄 Páginas revisadas: {pages_scanned}\n"
+        f"🏷️ Ofertas con 70% o más y venta Falabella: {len(deals)}\n"
+        f"📨 Alertas nuevas enviadas: {len(notified)}"
+    )
+    if not deals:
+        summary += (
+            "\n\nℹ️ No se encontraron ofertas que cumplan todos los filtros "
+            "en esta revisión."
         )
-        if all_errors:
-            summary += "\n\n⚠️ <b>Incidencias</b>\n" + "\n".join(
-                f"• {html.escape(error[:220])}" for error in all_errors[:5]
-            )
-        try:
-            await send_message(token, chat_id, summary)
-        except RuntimeError as exc:
-            logging.error(
-                "No se pudo enviar el resumen final: %s",
-                exc,
-            )
+    elif deals and not alerts:
+        summary += (
+            "\n\nℹ️ Sí hubo ofertas válidas, pero ya habían sido avisadas "
+            "anteriormente y no se repitieron."
+        )
+    if all_errors:
+        summary += "\n\n⚠️ <b>Incidencias</b>\n" + "\n".join(
+            f"• {html.escape(error[:220])}" for error in all_errors[:5]
+        )
+    try:
+        await send_telegram(token, chat_id, summary)
+        print('Resumen final enviado a Telegram.', flush=True)
+    except RuntimeError as exc:
+        logging.error(
+            "No se pudo enviar el resumen final: %s",
+            exc,
+        )
+        print(f'ERROR EN RESUMEN FINAL: {exc}', flush=True)
+
+    print('=== FIN DE REVISION ===', flush=True)
 
 
 if __name__ == "__main__":
