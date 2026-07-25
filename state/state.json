@@ -46,7 +46,7 @@
       "reference_price": 129.9,
       "discount": 72,
       "first_seen": 1784790215,
-      "last_seen": 1785010568,
+      "last_seen": 1785023319,
       "last_notified": 1784790215
     },
     "597c86c0435f51c29b75809b7ad7a04780978824dd9506fd4f795101acbb6552": {
@@ -118,7 +118,7 @@
       "reference_price": 299.9,
       "discount": 70,
       "first_seen": 1784790215,
-      "last_seen": 1785010568,
+      "last_seen": 1785023319,
       "last_notified": 1784790215
     },
     "da0c636a46c6cc404f3265bb865a8740ad48dfe607a82c87692db5819179d526": {
@@ -946,7 +946,7 @@
       "reference_price": 179.9,
       "discount": 72,
       "first_seen": 1784826877,
-      "last_seen": 1785010568,
+      "last_seen": 1785023319,
       "last_notified": 1784826877
     },
     "264fad866c2d0140bcf81975d8798e55eb266163edc067564b4741b16f98bba4": {
@@ -994,7 +994,7 @@
       "reference_price": 149.9,
       "discount": 70,
       "first_seen": 1784826877,
-      "last_seen": 1785010568,
+      "last_seen": 1785023319,
       "last_notified": 1784826877
     },
     "9ac8122e2a4b58b0890372c41673fe9e2d09edc6889209cb82ccbb04e5915d19": {
@@ -1090,7 +1090,7 @@
       "reference_price": 199.9,
       "discount": 70,
       "first_seen": 1784837991,
-      "last_seen": 1785010568,
+      "last_seen": 1785023319,
       "last_notified": 1784837991
     },
     "fd7beb850f38243a427c65eebf9ce4b8f24308b2f12db47242dd414357d7109d": {
@@ -1150,7 +1150,7 @@
       "reference_price": 229.9,
       "discount": 70,
       "first_seen": 1784850329,
-      "last_seen": 1785010568,
+      "last_seen": 1785023319,
       "last_notified": 1784850329
     },
     "a5c0c836b80307241a586ad2934ea638de99234b576721acd278dbb237d5a521": {
@@ -1234,7 +1234,7 @@
       "reference_price": 229.9,
       "discount": 74,
       "first_seen": 1784932470,
-      "last_seen": 1785010568,
+      "last_seen": 1785023319,
       "last_notified": 1784932470
     },
     "87afc5747c75f4755e66f5282460366436cc88775b208a6f14c8f1ea9dece2c8": {
@@ -1320,6 +1320,42 @@
       "first_seen": 1784994645,
       "last_seen": 1784994645,
       "last_notified": 1784994645
+    },
+    "a50a755a05f493ba73d4882f7f873cccdc3c337b90a9dff4dad73bd40cf0659d": {
+      "title": "UNIVERSITY CLUB",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883674731/casaca-plumas-dk-fungi-s/883686801",
+      "source": "Falabella - Moda Mujer",
+      "seller": "FALABELLA",
+      "current_price": 69.9,
+      "reference_price": 249.9,
+      "discount": 72,
+      "first_seen": 1785023319,
+      "last_seen": 1785023319,
+      "last_notified": 1785023319
+    },
+    "b47a9d484c490ffc0a8c763286e152466d1fd78bf1626f364215bb61b537cf0e": {
+      "title": "DOO AUSTRALIA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883682338/chaleco-flecha-chiporro-black-s/883682342",
+      "source": "Falabella - Moda Mujer",
+      "seller": "FALABELLA",
+      "current_price": 44.9,
+      "reference_price": 149.9,
+      "discount": 70,
+      "first_seen": 1785023319,
+      "last_seen": 1785023319,
+      "last_notified": 1785023319
+    },
+    "a759414847b2a4e2e80c83e0035f33275dc293a12a6050569941a1456764963b": {
+      "title": "DIADORA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883643576/zapatillas-urbanas-hombre-diadora/883643580",
+      "source": "Falabella - Zapatillas",
+      "seller": "FALABELLA",
+      "current_price": 68.97,
+      "reference_price": 229.9,
+      "discount": 70,
+      "first_seen": 1785023319,
+      "last_seen": 1785023319,
+      "last_notified": 1785023319
     }
   }
 }
