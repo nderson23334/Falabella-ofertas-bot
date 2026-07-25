@@ -1114,7 +1114,7 @@
       "reference_price": 129.9,
       "discount": 72,
       "first_seen": 1784850329,
-      "last_seen": 1784964585,
+      "last_seen": 1784980212,
       "last_notified": 1784850329
     },
     "39051914332784240f9bdc85627d4d26db577cd2809eacbcd90ba0185b4d867b": {
@@ -1150,7 +1150,7 @@
       "reference_price": 229.9,
       "discount": 70,
       "first_seen": 1784850329,
-      "last_seen": 1784898533,
+      "last_seen": 1784980212,
       "last_notified": 1784850329
     },
     "a5c0c836b80307241a586ad2934ea638de99234b576721acd278dbb237d5a521": {
@@ -1162,7 +1162,7 @@
       "reference_price": 229.9,
       "discount": 74,
       "first_seen": 1784898533,
-      "last_seen": 1784916553,
+      "last_seen": 1784980212,
       "last_notified": 1784898533
     },
     "a96ef6e0aca7e2dae3122ad3f4264037b0ccfa3506aa33f1df49bef7a3d006a1": {
@@ -1270,8 +1270,32 @@
       "reference_price": 199.9,
       "discount": 70,
       "first_seen": 1784932470,
-      "last_seen": 1784932470,
+      "last_seen": 1784980212,
       "last_notified": 1784932470
+    },
+    "1f7968aee8f4006fe1c1acb46eb8778ff52454cbf469e1adb82db689bbc01d5c": {
+      "title": "UNIVERSITY CLUB",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883674731/casaca-plumas-dk-fungi-s/883686802",
+      "source": "Falabella - Moda Mujer",
+      "seller": "FALABELLA",
+      "current_price": 69.9,
+      "reference_price": 249.9,
+      "discount": 72,
+      "first_seen": 1784980212,
+      "last_seen": 1784980212,
+      "last_notified": 1784980212
+    },
+    "c96599f17cc58dc05864cb295d28f553fe684f14abea5febbc717d355fbe5fe6": {
+      "title": "DOO AUSTRALIA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883682338/chaleco-flecha-chiporro-black-s/883682344",
+      "source": "Falabella - Moda Mujer",
+      "seller": "FALABELLA",
+      "current_price": 44.9,
+      "reference_price": 149.9,
+      "discount": 70,
+      "first_seen": 1784980212,
+      "last_seen": 1784980212,
+      "last_notified": 1784980212
     }
   }
 }
