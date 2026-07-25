@@ -118,7 +118,7 @@
       "reference_price": 299.9,
       "discount": 70,
       "first_seen": 1784790215,
-      "last_seen": 1784964585,
+      "last_seen": 1784994645,
       "last_notified": 1784790215
     },
     "da0c636a46c6cc404f3265bb865a8740ad48dfe607a82c87692db5819179d526": {
@@ -994,7 +994,7 @@
       "reference_price": 149.9,
       "discount": 70,
       "first_seen": 1784826877,
-      "last_seen": 1784826877,
+      "last_seen": 1784994645,
       "last_notified": 1784826877
     },
     "9ac8122e2a4b58b0890372c41673fe9e2d09edc6889209cb82ccbb04e5915d19": {
@@ -1114,7 +1114,7 @@
       "reference_price": 129.9,
       "discount": 72,
       "first_seen": 1784850329,
-      "last_seen": 1784980212,
+      "last_seen": 1784994645,
       "last_notified": 1784850329
     },
     "39051914332784240f9bdc85627d4d26db577cd2809eacbcd90ba0185b4d867b": {
@@ -1150,7 +1150,7 @@
       "reference_price": 229.9,
       "discount": 70,
       "first_seen": 1784850329,
-      "last_seen": 1784980212,
+      "last_seen": 1784994645,
       "last_notified": 1784850329
     },
     "a5c0c836b80307241a586ad2934ea638de99234b576721acd278dbb237d5a521": {
@@ -1186,7 +1186,7 @@
       "reference_price": 129.9,
       "discount": 73,
       "first_seen": 1784898533,
-      "last_seen": 1784932470,
+      "last_seen": 1784994645,
       "last_notified": 1784898533
     },
     "14f9dc99b79387fbc9bf2b7d4929e01d97389573100f2e69011bb2dd9de12400": {
@@ -1198,7 +1198,7 @@
       "reference_price": 179.9,
       "discount": 72,
       "first_seen": 1784898533,
-      "last_seen": 1784898533,
+      "last_seen": 1784994645,
       "last_notified": 1784898533
     },
     "f6025775829712e0a7ea2f0d8577ffdb9ae2e13efddad7871b1bd66538566614": {
@@ -1234,7 +1234,7 @@
       "reference_price": 229.9,
       "discount": 74,
       "first_seen": 1784932470,
-      "last_seen": 1784964585,
+      "last_seen": 1784994645,
       "last_notified": 1784932470
     },
     "87afc5747c75f4755e66f5282460366436cc88775b208a6f14c8f1ea9dece2c8": {
@@ -1296,6 +1296,30 @@
       "first_seen": 1784980212,
       "last_seen": 1784980212,
       "last_notified": 1784980212
+    },
+    "953ad9e1c3132714f389500520b4e86e907e12a7e44009ef1509ebe1d5619d19": {
+      "title": "UNIVERSITY CLUB",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883674731/casaca-plumas-dk-fungi-s/883674736",
+      "source": "Falabella - Moda Mujer",
+      "seller": "FALABELLA",
+      "current_price": 69.9,
+      "reference_price": 249.9,
+      "discount": 72,
+      "first_seen": 1784994645,
+      "last_seen": 1784994645,
+      "last_notified": 1784994645
+    },
+    "3b0918e869dd59fdf8dc4beef4a3146e60927084a3afae51387c7e2f6f91aaa0": {
+      "title": "NEWPORT",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883676078/casaca-mujer-newport/883676084",
+      "source": "Falabella - Moda Mujer",
+      "seller": "FALABELLA",
+      "current_price": 59.9,
+      "reference_price": 199.9,
+      "discount": 70,
+      "first_seen": 1784994645,
+      "last_seen": 1784994645,
+      "last_notified": 1784994645
     }
   }
 }
