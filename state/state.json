@@ -46,7 +46,7 @@
       "reference_price": 129.9,
       "discount": 72,
       "first_seen": 1784790215,
-      "last_seen": 1785080967,
+      "last_seen": 1785096258,
       "last_notified": 1784790215
     },
     "597c86c0435f51c29b75809b7ad7a04780978824dd9506fd4f795101acbb6552": {
@@ -118,7 +118,7 @@
       "reference_price": 299.9,
       "discount": 70,
       "first_seen": 1784790215,
-      "last_seen": 1785080967,
+      "last_seen": 1785096258,
       "last_notified": 1784790215
     },
     "da0c636a46c6cc404f3265bb865a8740ad48dfe607a82c87692db5819179d526": {
@@ -1018,7 +1018,7 @@
       "reference_price": 229.9,
       "discount": 70,
       "first_seen": 1784826877,
-      "last_seen": 1785080967,
+      "last_seen": 1785096258,
       "last_notified": 1784826877
     },
     "2f43c05bdd29b4eea3a0cbaf70d3fcecdf1710f4d67b1231b51ba44f81e12f96": {
@@ -1306,7 +1306,7 @@
       "reference_price": 249.9,
       "discount": 72,
       "first_seen": 1784994645,
-      "last_seen": 1784994645,
+      "last_seen": 1785096258,
       "last_notified": 1784994645
     },
     "3b0918e869dd59fdf8dc4beef4a3146e60927084a3afae51387c7e2f6f91aaa0": {
@@ -1366,7 +1366,7 @@
       "reference_price": 229.9,
       "discount": 70,
       "first_seen": 1785052824,
-      "last_seen": 1785052824,
+      "last_seen": 1785096258,
       "last_notified": 1785052824
     },
     "2e796d2dab2811a234241cd432e827fa45b958286fcdc8804f1a3a817787a0f5": {
@@ -1390,7 +1390,7 @@
       "reference_price": 129.9,
       "discount": 70,
       "first_seen": 1785066997,
-      "last_seen": 1785080967,
+      "last_seen": 1785096258,
       "last_notified": 1785066997
     },
     "1ce3a09bd34e1ef98b6c959c3c857897e61d36992e01de9f73fa7ca1b37545c8": {
@@ -1428,6 +1428,18 @@
       "first_seen": 1785080967,
       "last_seen": 1785080967,
       "last_notified": 1785080967
+    },
+    "59d3f2ea23d8693a1d4ee2b603901dce851e63195a926fc3db7ed7f397a34aee": {
+      "title": "DOO AUSTRALIA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883682338/chaleco-flecha-chiporro-black-s/883682339",
+      "source": "Falabella - Moda Mujer",
+      "seller": "FALABELLA",
+      "current_price": 44.9,
+      "reference_price": 149.9,
+      "discount": 70,
+      "first_seen": 1785096258,
+      "last_seen": 1785096258,
+      "last_notified": 1785096258
     }
   }
 }
