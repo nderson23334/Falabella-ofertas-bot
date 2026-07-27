@@ -46,7 +46,7 @@
       "reference_price": 129.9,
       "discount": 72,
       "first_seen": 1784790215,
-      "last_seen": 1785109305,
+      "last_seen": 1785153771,
       "last_notified": 1784790215
     },
     "597c86c0435f51c29b75809b7ad7a04780978824dd9506fd4f795101acbb6552": {
@@ -118,7 +118,7 @@
       "reference_price": 299.9,
       "discount": 70,
       "first_seen": 1784790215,
-      "last_seen": 1785109305,
+      "last_seen": 1785153771,
       "last_notified": 1784790215
     },
     "da0c636a46c6cc404f3265bb865a8740ad48dfe607a82c87692db5819179d526": {
@@ -1150,7 +1150,7 @@
       "reference_price": 229.9,
       "discount": 70,
       "first_seen": 1784850329,
-      "last_seen": 1785066997,
+      "last_seen": 1785153771,
       "last_notified": 1784850329
     },
     "a5c0c836b80307241a586ad2934ea638de99234b576721acd278dbb237d5a521": {
@@ -1378,7 +1378,7 @@
       "reference_price": 249.9,
       "discount": 72,
       "first_seen": 1785066997,
-      "last_seen": 1785066997,
+      "last_seen": 1785153771,
       "last_notified": 1785066997
     },
     "57734c0644cca32b1ec96cd774d2517b8f04c85eeb26cfc7bfc55f6ab670f87d": {
@@ -1440,6 +1440,66 @@
       "first_seen": 1785096258,
       "last_seen": 1785109305,
       "last_notified": 1785096258
+    },
+    "aa57c96ae917b1b7cc37ee2737a865038b878bbe6a99bfb14ea678bb83bc5559": {
+      "title": "BASEMENT",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883729069/chompa-mujer-basement/883729073",
+      "source": "Falabella - Moda Mujer",
+      "seller": "FALABELLA",
+      "current_price": 34.9,
+      "reference_price": 129.9,
+      "discount": 73,
+      "first_seen": 1785153771,
+      "last_seen": 1785153771,
+      "last_notified": 1785153771
+    },
+    "9d2b7af0e3b204819011fa7cb18cc2b434978f2671993cab7f91360a6478213b": {
+      "title": "STARTER",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883547866/zapatillas-urbanas-hombre-starter/883547872",
+      "source": "Falabella - Zapatillas",
+      "seller": "FALABELLA",
+      "current_price": 35.97,
+      "reference_price": 129.9,
+      "discount": 72,
+      "first_seen": 1785153771,
+      "last_seen": 1785153771,
+      "last_notified": 1785153771
+    },
+    "1db42573f72e9309b030b3f122ae3ea9b775fc64a1e6d8dd04e3afca71ec8647": {
+      "title": "STARTER",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883649897/zapatillas-urbanas-hombre-starter/883649900",
+      "source": "Falabella - Zapatillas",
+      "seller": "FALABELLA",
+      "current_price": 38.97,
+      "reference_price": 129.9,
+      "discount": 70,
+      "first_seen": 1785153771,
+      "last_seen": 1785153771,
+      "last_notified": 1785153771
+    },
+    "c4230a1fb2b7ed41af3dfa000ff4a65fba5340fbe2b51f0b2d7e146fbdaff30d": {
+      "title": "DIADORA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883643576/zapatillas-urbanas-hombre-diadora/883643577",
+      "source": "Falabella - Zapatillas",
+      "seller": "FALABELLA",
+      "current_price": 68.97,
+      "reference_price": 229.9,
+      "discount": 70,
+      "first_seen": 1785153771,
+      "last_seen": 1785153771,
+      "last_notified": 1785153771
+    },
+    "1278a446ec177756d857adbe039a6f84ead3459de670753110b63c1d4284e513": {
+      "title": "DIADORA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883642448/zapatillas-urbanas-mujer-diadora/883642453",
+      "source": "Falabella - Zapatillas",
+      "seller": "FALABELLA",
+      "current_price": 68.97,
+      "reference_price": 229.9,
+      "discount": 70,
+      "first_seen": 1785153771,
+      "last_seen": 1785153771,
+      "last_notified": 1785153771
     }
   }
 }
