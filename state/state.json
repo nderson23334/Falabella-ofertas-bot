@@ -118,7 +118,7 @@
       "reference_price": 299.9,
       "discount": 70,
       "first_seen": 1784790215,
-      "last_seen": 1785254245,
+      "last_seen": 1785271377,
       "last_notified": 1784790215
     },
     "da0c636a46c6cc404f3265bb865a8740ad48dfe607a82c87692db5819179d526": {
@@ -646,7 +646,7 @@
       "reference_price": 229.9,
       "discount": 70,
       "first_seen": 1784795412,
-      "last_seen": 1784795412,
+      "last_seen": 1785271377,
       "last_notified": null
     },
     "b79336b6621cbd77ae396ae1ae489dc5710aff41ac8a0b0b5e60c447825f2678": {
@@ -802,7 +802,7 @@
       "reference_price": 249.9,
       "discount": 72,
       "first_seen": 1784796271,
-      "last_seen": 1785254245,
+      "last_seen": 1785271377,
       "last_notified": 1784796271
     },
     "4c3eee531cacbde831b69e135820f267ac5d8bfd12a3b104261f5ba56d7988e7": {
@@ -1114,7 +1114,7 @@
       "reference_price": 129.9,
       "discount": 72,
       "first_seen": 1784850329,
-      "last_seen": 1785254245,
+      "last_seen": 1785271377,
       "last_notified": 1784850329
     },
     "39051914332784240f9bdc85627d4d26db577cd2809eacbcd90ba0185b4d867b": {
@@ -1366,7 +1366,7 @@
       "reference_price": 229.9,
       "discount": 70,
       "first_seen": 1785052824,
-      "last_seen": 1785109305,
+      "last_seen": 1785271377,
       "last_notified": 1785052824
     },
     "2e796d2dab2811a234241cd432e827fa45b958286fcdc8804f1a3a817787a0f5": {
@@ -1498,7 +1498,7 @@
       "reference_price": 229.9,
       "discount": 70,
       "first_seen": 1785153771,
-      "last_seen": 1785153771,
+      "last_seen": 1785271377,
       "last_notified": 1785153771
     },
     "4aacc690ea254ac3df5931be63d77854a1d91ffa57d05305548ad18636c88e70": {
@@ -1584,6 +1584,30 @@
       "first_seen": 1785254245,
       "last_seen": 1785254245,
       "last_notified": 1785254245
+    },
+    "724c26a0644e71d9e3c29a56c6e3a6ea3280129109501cf8558f66d1e57bc5bf": {
+      "title": "STARTER",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883649897/zapatillas-urbanas-hombre-starter/883649901",
+      "source": "Falabella - Zapatillas",
+      "seller": "FALABELLA",
+      "current_price": 38.97,
+      "reference_price": 129.9,
+      "discount": 70,
+      "first_seen": 1785271377,
+      "last_seen": 1785271377,
+      "last_notified": 1785271377
+    },
+    "36b5f029fa9a9b27345c7fb259864f159bc392abf5a3f63e635672ec1e451494": {
+      "title": "CONIGLIO",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883644252/zapatillas-urbanas-nino-coniglio/883644259",
+      "source": "Falabella - Zapatillas",
+      "seller": "FALABELLA",
+      "current_price": 38.97,
+      "reference_price": 129.9,
+      "discount": 70,
+      "first_seen": 1785271377,
+      "last_seen": 1785271377,
+      "last_notified": 1785271377
     }
   }
 }
