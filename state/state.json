@@ -1018,7 +1018,7 @@
       "reference_price": 229.9,
       "discount": 70,
       "first_seen": 1784826877,
-      "last_seen": 1785175381,
+      "last_seen": 1785398449,
       "last_notified": 1784826877
     },
     "2f43c05bdd29b4eea3a0cbaf70d3fcecdf1710f4d67b1231b51ba44f81e12f96": {
@@ -1114,7 +1114,7 @@
       "reference_price": 129.9,
       "discount": 72,
       "first_seen": 1784850329,
-      "last_seen": 1785368921,
+      "last_seen": 1785398449,
       "last_notified": 1784850329
     },
     "39051914332784240f9bdc85627d4d26db577cd2809eacbcd90ba0185b4d867b": {
@@ -1306,7 +1306,7 @@
       "reference_price": 249.9,
       "discount": 72,
       "first_seen": 1784994645,
-      "last_seen": 1785356281,
+      "last_seen": 1785398449,
       "last_notified": 1784994645
     },
     "3b0918e869dd59fdf8dc4beef4a3146e60927084a3afae51387c7e2f6f91aaa0": {
@@ -1354,7 +1354,7 @@
       "reference_price": 229.9,
       "discount": 70,
       "first_seen": 1785023319,
-      "last_seen": 1785368921,
+      "last_seen": 1785398449,
       "last_notified": 1785023319
     },
     "5fa2bcecb015f6966fdd9f42131fea4fd72ee5149345d01e1a46b511538e3ae7": {
@@ -1534,7 +1534,7 @@
       "reference_price": 129.9,
       "discount": 70,
       "first_seen": 1785189279,
-      "last_seen": 1785368921,
+      "last_seen": 1785398449,
       "last_notified": 1785189279
     },
     "3e4c78d3e6062fd6db8fd4b01a2a1fe8ee5914d025bd7ae42a9b92f77cd2d40a": {
@@ -1680,6 +1680,42 @@
       "first_seen": 1785368921,
       "last_seen": 1785368921,
       "last_notified": 1785368921
+    },
+    "f6ca22d3a912b8d873d45c584a526c3d152397dd28f4d720b0956e3d6ce3b90d": {
+      "title": "SYBILLA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/881103757/jean-slouchy-tiro-alto-mujer-sybilla/881103771",
+      "source": "Falabella - Moda Mujer",
+      "seller": "FALABELLA",
+      "current_price": 24.9,
+      "reference_price": 89.9,
+      "discount": 72,
+      "first_seen": 1785398449,
+      "last_seen": 1785398449,
+      "last_notified": 1785398449
+    },
+    "60985c45010b44cdab3d332cec0571aacca8bca59f6c72e455c52615452b06ea": {
+      "title": "CONIGLIO",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883644252/zapatillas-urbanas-nino-coniglio/883644253",
+      "source": "Falabella - Zapatillas",
+      "seller": "FALABELLA",
+      "current_price": 38.97,
+      "reference_price": 129.9,
+      "discount": 70,
+      "first_seen": 1785398449,
+      "last_seen": 1785398449,
+      "last_notified": 1785398449
+    },
+    "d3b8e85f5b5a3073a44dd1d2ea520d67028ab48c3f442ba44011473c790af4ef": {
+      "title": "DIADORA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883642448/zapatillas-urbanas-mujer-diadora/883642450",
+      "source": "Falabella - Zapatillas",
+      "seller": "FALABELLA",
+      "current_price": 68.97,
+      "reference_price": 229.9,
+      "discount": 70,
+      "first_seen": 1785398449,
+      "last_seen": 1785398449,
+      "last_notified": 1785398449
     }
   }
 }
