@@ -1018,7 +1018,7 @@
       "reference_price": 229.9,
       "discount": 70,
       "first_seen": 1784826877,
-      "last_seen": 1785398449,
+      "last_seen": 1785425773,
       "last_notified": 1784826877
     },
     "2f43c05bdd29b4eea3a0cbaf70d3fcecdf1710f4d67b1231b51ba44f81e12f96": {
@@ -1114,7 +1114,7 @@
       "reference_price": 129.9,
       "discount": 72,
       "first_seen": 1784850329,
-      "last_seen": 1785398449,
+      "last_seen": 1785425773,
       "last_notified": 1784850329
     },
     "39051914332784240f9bdc85627d4d26db577cd2809eacbcd90ba0185b4d867b": {
@@ -1486,7 +1486,7 @@
       "reference_price": 229.9,
       "discount": 70,
       "first_seen": 1785153771,
-      "last_seen": 1785320392,
+      "last_seen": 1785425773,
       "last_notified": 1785153771
     },
     "1278a446ec177756d857adbe039a6f84ead3459de670753110b63c1d4284e513": {
@@ -1558,7 +1558,7 @@
       "reference_price": 229.9,
       "discount": 70,
       "first_seen": 1785189279,
-      "last_seen": 1785254245,
+      "last_seen": 1785425773,
       "last_notified": 1785189279
     },
     "724c1bd58d8cfee5faa290dbf1bd5f871a98043d0ec4535c3ce68b3bdd6cbb4e": {
@@ -1594,7 +1594,7 @@
       "reference_price": 129.9,
       "discount": 70,
       "first_seen": 1785271377,
-      "last_seen": 1785271377,
+      "last_seen": 1785425773,
       "last_notified": 1785271377
     },
     "36b5f029fa9a9b27345c7fb259864f159bc392abf5a3f63e635672ec1e451494": {
@@ -1630,7 +1630,7 @@
       "reference_price": 89.9,
       "discount": 72,
       "first_seen": 1785341206,
-      "last_seen": 1785368921,
+      "last_seen": 1785425773,
       "last_notified": 1785341206
     },
     "b41b3fe4ef7853cfc1ad883dc40703cb860d68b9128e8e06aa3e9cc5d9f5ffe4": {
@@ -1666,7 +1666,7 @@
       "reference_price": 129.9,
       "discount": 70,
       "first_seen": 1785356281,
-      "last_seen": 1785368921,
+      "last_seen": 1785425773,
       "last_notified": 1785356281
     },
     "73dac139bedac2102f27c6937d78bba6ded9275a99c980de743d14a1ac5e0706": {
@@ -1716,6 +1716,54 @@
       "first_seen": 1785398449,
       "last_seen": 1785398449,
       "last_notified": 1785398449
+    },
+    "02aad09fae89bd0dd7c7d77d50e8aa3280bfcb7adc5d1da2cd929741ef6877aa": {
+      "title": "UNIVERSITY CLUB",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883674731/casaca-plumas-dk-fungi-s/883674738",
+      "source": "Falabella - Moda Mujer",
+      "seller": "FALABELLA",
+      "current_price": 69.9,
+      "reference_price": 249.9,
+      "discount": 72,
+      "first_seen": 1785425773,
+      "last_seen": 1785425773,
+      "last_notified": 1785425773
+    },
+    "311d548b574ab58f34076bfbb6560382351a9ab14a2db37fa844c61b30c26090": {
+      "title": "APOLOGY",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883737371/zapatillas-urbanas-mujer-apology/883737382",
+      "source": "Falabella - Zapatillas",
+      "seller": "FALABELLA",
+      "current_price": 59.97,
+      "reference_price": 199.9,
+      "discount": 70,
+      "first_seen": 1785425773,
+      "last_seen": 1785425773,
+      "last_notified": 1785425773
+    },
+    "e1d9672531d3a30943679c91ea2ca91738bad99083fce1db79a92d52a43815ab": {
+      "title": "DIADORA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883725275/zapatillas-urbanas-mujer-diadora/883725277",
+      "source": "Falabella - Zapatillas",
+      "seller": "FALABELLA",
+      "current_price": 62.97,
+      "reference_price": 209.9,
+      "discount": 70,
+      "first_seen": 1785425773,
+      "last_seen": 1785425773,
+      "last_notified": 1785425773
+    },
+    "6c1a8762b04e7e16124738944df0d8d839ec70597656003363b6c4e6212b1d87": {
+      "title": "DIADORA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883643236/zapatillas-urbanas-hombre-diadora/883643237",
+      "source": "Falabella - Zapatillas",
+      "seller": "FALABELLA",
+      "current_price": 68.97,
+      "reference_price": 229.9,
+      "discount": 70,
+      "first_seen": 1785425773,
+      "last_seen": 1785425773,
+      "last_notified": 1785425773
     }
   }
 }
