@@ -106,7 +106,7 @@
       "reference_price": 229.9,
       "discount": 70,
       "first_seen": 1784790215,
-      "last_seen": 1785492232,
+      "last_seen": 1785515185,
       "last_notified": 1784790215
     },
     "6132b93f4b40f660228a496509dbf21a9f9912ade3e72f0765f8e570359c1fb7": {
@@ -118,7 +118,7 @@
       "reference_price": 299.9,
       "discount": 70,
       "first_seen": 1784790215,
-      "last_seen": 1785341206,
+      "last_seen": 1785515185,
       "last_notified": 1784790215
     },
     "da0c636a46c6cc404f3265bb865a8740ad48dfe607a82c87692db5819179d526": {
@@ -1114,7 +1114,7 @@
       "reference_price": 129.9,
       "discount": 72,
       "first_seen": 1784850329,
-      "last_seen": 1785492232,
+      "last_seen": 1785515185,
       "last_notified": 1784850329
     },
     "39051914332784240f9bdc85627d4d26db577cd2809eacbcd90ba0185b4d867b": {
@@ -1282,7 +1282,7 @@
       "reference_price": 249.9,
       "discount": 72,
       "first_seen": 1784980212,
-      "last_seen": 1784980212,
+      "last_seen": 1785515185,
       "last_notified": 1784980212
     },
     "c96599f17cc58dc05864cb295d28f553fe684f14abea5febbc717d355fbe5fe6": {
@@ -1390,7 +1390,7 @@
       "reference_price": 129.9,
       "discount": 70,
       "first_seen": 1785066997,
-      "last_seen": 1785254245,
+      "last_seen": 1785515185,
       "last_notified": 1785066997
     },
     "1ce3a09bd34e1ef98b6c959c3c857897e61d36992e01de9f73fa7ca1b37545c8": {
@@ -1570,7 +1570,7 @@
       "reference_price": 229.9,
       "discount": 70,
       "first_seen": 1785225022,
-      "last_seen": 1785368921,
+      "last_seen": 1785515185,
       "last_notified": 1785225022
     },
     "322b1def281b3a2f1884d725c49e5461ec80062d072c27614972a372aa929a5b": {
@@ -1666,7 +1666,7 @@
       "reference_price": 129.9,
       "discount": 70,
       "first_seen": 1785356281,
-      "last_seen": 1785425773,
+      "last_seen": 1785515185,
       "last_notified": 1785356281
     },
     "73dac139bedac2102f27c6937d78bba6ded9275a99c980de743d14a1ac5e0706": {
@@ -1762,7 +1762,7 @@
       "reference_price": 229.9,
       "discount": 70,
       "first_seen": 1785425773,
-      "last_seen": 1785425773,
+      "last_seen": 1785515185,
       "last_notified": 1785425773
     },
     "902d8be499768a8db5195be4866f496b915a3017068f02a6cdba8bab41d014f5": {
@@ -1872,6 +1872,54 @@
       "first_seen": 1785492232,
       "last_seen": 1785492232,
       "last_notified": 1785492232
+    },
+    "42882910a38f6a9db1cc86786a060560318978a6eb1d1e841bccae53f3108bc2": {
+      "title": "SYBILLA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/881103757/jean-slouchy-tiro-alto-mujer-sybilla/881103770",
+      "source": "Falabella - Moda Mujer",
+      "seller": "FALABELLA",
+      "current_price": 24.9,
+      "reference_price": 89.9,
+      "discount": 72,
+      "first_seen": 1785515185,
+      "last_seen": 1785515185,
+      "last_notified": 1785515185
+    },
+    "634695a1d5eb9f9f5fe718c2c0249ab1211b75a5b5318a5b0b4adb70ff50bbb2": {
+      "title": "STARTER",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883301406/zapatillas-urbanas-hombre-starter/883301408",
+      "source": "Falabella - Zapatillas",
+      "seller": "FALABELLA",
+      "current_price": 35.97,
+      "reference_price": 129.9,
+      "discount": 72,
+      "first_seen": 1785515185,
+      "last_seen": 1785515185,
+      "last_notified": 1785515185
+    },
+    "6a43d84b1ccd2ecf2df153772f13d1ca21da4d0bf392b5c86e6700a915754220": {
+      "title": "APOLOGY",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883737371/zapatillas-urbanas-mujer-apology/883737379",
+      "source": "Falabella - Zapatillas",
+      "seller": "FALABELLA",
+      "current_price": 59.97,
+      "reference_price": 199.9,
+      "discount": 70,
+      "first_seen": 1785515185,
+      "last_seen": 1785515185,
+      "last_notified": 1785515185
+    },
+    "66dba3d689484867471ef4912f931f2774e46387290a9e4471f4b3ca509ed72b": {
+      "title": "DIADORA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883725275/zapatillas-urbanas-mujer-diadora/883725278",
+      "source": "Falabella - Zapatillas",
+      "seller": "FALABELLA",
+      "current_price": 62.97,
+      "reference_price": 209.9,
+      "discount": 70,
+      "first_seen": 1785515185,
+      "last_seen": 1785515185,
+      "last_notified": 1785515185
     }
   }
 }
