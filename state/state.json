@@ -958,7 +958,7 @@
       "reference_price": 249.9,
       "discount": 72,
       "first_seen": 1784826877,
-      "last_seen": 1785574674,
+      "last_seen": 1785586753,
       "last_notified": 1784826877
     },
     "1d79782a951d95962cecad7db4a8f5fbfc84868747bcbf11a8d635bfe7c48509": {
@@ -1114,7 +1114,7 @@
       "reference_price": 129.9,
       "discount": 72,
       "first_seen": 1784850329,
-      "last_seen": 1785574674,
+      "last_seen": 1785586753,
       "last_notified": 1784850329
     },
     "39051914332784240f9bdc85627d4d26db577cd2809eacbcd90ba0185b4d867b": {
@@ -1222,7 +1222,7 @@
       "reference_price": 229.9,
       "discount": 70,
       "first_seen": 1784916553,
-      "last_seen": 1785443106,
+      "last_seen": 1785586753,
       "last_notified": 1784916553
     },
     "2d3513f3aaeaeb7ce621649b15130c1307194cd68a75a958caf5c5b1143f28bb": {
@@ -1594,7 +1594,7 @@
       "reference_price": 129.9,
       "discount": 70,
       "first_seen": 1785271377,
-      "last_seen": 1785425773,
+      "last_seen": 1785586753,
       "last_notified": 1785271377
     },
     "36b5f029fa9a9b27345c7fb259864f159bc392abf5a3f63e635672ec1e451494": {
@@ -1714,7 +1714,7 @@
       "reference_price": 229.9,
       "discount": 70,
       "first_seen": 1785398449,
-      "last_seen": 1785398449,
+      "last_seen": 1785586753,
       "last_notified": 1785398449
     },
     "02aad09fae89bd0dd7c7d77d50e8aa3280bfcb7adc5d1da2cd929741ef6877aa": {
@@ -1738,7 +1738,7 @@
       "reference_price": 199.9,
       "discount": 70,
       "first_seen": 1785425773,
-      "last_seen": 1785425773,
+      "last_seen": 1785586753,
       "last_notified": 1785425773
     },
     "e1d9672531d3a30943679c91ea2ca91738bad99083fce1db79a92d52a43815ab": {
@@ -1750,7 +1750,7 @@
       "reference_price": 209.9,
       "discount": 70,
       "first_seen": 1785425773,
-      "last_seen": 1785425773,
+      "last_seen": 1785586753,
       "last_notified": 1785425773
     },
     "6c1a8762b04e7e16124738944df0d8d839ec70597656003363b6c4e6212b1d87": {
@@ -1762,7 +1762,7 @@
       "reference_price": 229.9,
       "discount": 70,
       "first_seen": 1785425773,
-      "last_seen": 1785515185,
+      "last_seen": 1785586753,
       "last_notified": 1785425773
     },
     "902d8be499768a8db5195be4866f496b915a3017068f02a6cdba8bab41d014f5": {
@@ -1822,7 +1822,7 @@
       "reference_price": 89.9,
       "discount": 72,
       "first_seen": 1785492232,
-      "last_seen": 1785492232,
+      "last_seen": 1785586753,
       "last_notified": 1785492232
     },
     "67c5d744c9d725a5626588f5fc0c6f5b7f445bd6049881b7e4e5921753ae962a": {
@@ -1894,7 +1894,7 @@
       "reference_price": 129.9,
       "discount": 72,
       "first_seen": 1785515185,
-      "last_seen": 1785543244,
+      "last_seen": 1785586753,
       "last_notified": 1785515185
     },
     "6a43d84b1ccd2ecf2df153772f13d1ca21da4d0bf392b5c86e6700a915754220": {
@@ -1968,6 +1968,18 @@
       "first_seen": 1785574674,
       "last_seen": 1785574674,
       "last_notified": 1785574674
+    },
+    "8c17a169a37ae06505263bd51ea8fa8e2e9976b0dae56301155de5910828eb03": {
+      "title": "CONIGLIO",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883644252/zapatillas-urbanas-nino-coniglio/883644262",
+      "source": "Falabella - Zapatillas",
+      "seller": "FALABELLA",
+      "current_price": 38.97,
+      "reference_price": 129.9,
+      "discount": 70,
+      "first_seen": 1785586753,
+      "last_seen": 1785586753,
+      "last_notified": 1785586753
     }
   }
 }
