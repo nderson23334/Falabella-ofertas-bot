@@ -1114,7 +1114,7 @@
       "reference_price": 129.9,
       "discount": 72,
       "first_seen": 1784850329,
-      "last_seen": 1785953540,
+      "last_seen": 1785969306,
       "last_notified": 1784850329
     },
     "39051914332784240f9bdc85627d4d26db577cd2809eacbcd90ba0185b4d867b": {
@@ -1558,7 +1558,7 @@
       "reference_price": 229.9,
       "discount": 70,
       "first_seen": 1785189279,
-      "last_seen": 1785831017,
+      "last_seen": 1785969306,
       "last_notified": 1785189279
     },
     "724c1bd58d8cfee5faa290dbf1bd5f871a98043d0ec4535c3ce68b3bdd6cbb4e": {
@@ -1606,7 +1606,7 @@
       "reference_price": 129.9,
       "discount": 70,
       "first_seen": 1785271377,
-      "last_seen": 1785860762,
+      "last_seen": 1785969306,
       "last_notified": 1785271377
     },
     "c77d95d580cfd8d91f59cc6876d94c7608146f48cffacb5990dbd27cb98042fe": {
@@ -1630,7 +1630,7 @@
       "reference_price": 89.9,
       "discount": 72,
       "first_seen": 1785341206,
-      "last_seen": 1785953540,
+      "last_seen": 1785969306,
       "last_notified": 1785341206
     },
     "b41b3fe4ef7853cfc1ad883dc40703cb860d68b9128e8e06aa3e9cc5d9f5ffe4": {
@@ -1762,7 +1762,7 @@
       "reference_price": 229.9,
       "discount": 70,
       "first_seen": 1785425773,
-      "last_seen": 1785910642,
+      "last_seen": 1785969306,
       "last_notified": 1785425773
     },
     "902d8be499768a8db5195be4866f496b915a3017068f02a6cdba8bab41d014f5": {
@@ -1894,7 +1894,7 @@
       "reference_price": 129.9,
       "discount": 72,
       "first_seen": 1785515185,
-      "last_seen": 1785953540,
+      "last_seen": 1785969306,
       "last_notified": 1785515185
     },
     "6a43d84b1ccd2ecf2df153772f13d1ca21da4d0bf392b5c86e6700a915754220": {
@@ -1918,7 +1918,7 @@
       "reference_price": 209.9,
       "discount": 70,
       "first_seen": 1785515185,
-      "last_seen": 1785953540,
+      "last_seen": 1785969306,
       "last_notified": 1785515185
     },
     "53d3bb3efd3377c94142a5f6c49d4863ec45ef08d40fe483b095649f35aa2ffa": {
@@ -2040,6 +2040,18 @@
       "first_seen": 1785831017,
       "last_seen": 1785877162,
       "last_notified": 1785831017
+    },
+    "96d0d02c6066882d3f4ac1bfa5af75a82b89801c005c02ea479ef5c8cfe0ed23": {
+      "title": "APOLOGY",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883737371/zapatillas-urbanas-mujer-apology/883737380",
+      "source": "Falabella - Zapatillas",
+      "seller": "FALABELLA",
+      "current_price": 59.97,
+      "reference_price": 199.9,
+      "discount": 70,
+      "first_seen": 1785969306,
+      "last_seen": 1785969306,
+      "last_notified": 1785969306
     }
   }
 }
