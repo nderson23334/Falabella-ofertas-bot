@@ -1522,7 +1522,7 @@
       "reference_price": 229.9,
       "discount": 70,
       "first_seen": 1785175381,
-      "last_seen": 1785685530,
+      "last_seen": 1786133473,
       "last_notified": 1785175381
     },
     "792626b04532988fde4ca78e92dc333a0b6cb4e4bed1c783d1ece9e7754862fb": {
@@ -1702,7 +1702,7 @@
       "reference_price": 129.9,
       "discount": 70,
       "first_seen": 1785398449,
-      "last_seen": 1786115693,
+      "last_seen": 1786133473,
       "last_notified": 1785398449
     },
     "d3b8e85f5b5a3073a44dd1d2ea520d67028ab48c3f442ba44011473c790af4ef": {
@@ -1774,7 +1774,7 @@
       "reference_price": 209.9,
       "discount": 70,
       "first_seen": 1785443106,
-      "last_seen": 1786095660,
+      "last_seen": 1786133473,
       "last_notified": 1785443106
     },
     "216e793698b3b4adcc8b1a46af5f7fb023eb92c5321937d375548029fed5fac9": {
@@ -1930,7 +1930,7 @@
       "reference_price": 199.9,
       "discount": 70,
       "first_seen": 1785531171,
-      "last_seen": 1786126105,
+      "last_seen": 1786133473,
       "last_notified": 1785531171
     },
     "6ba8c277b03c76b4080cff36da75b19e7b2b070f2fc742c7f50754a5f236b368": {
@@ -1954,7 +1954,7 @@
       "reference_price": 89.9,
       "discount": 72,
       "first_seen": 1785574674,
-      "last_seen": 1785910642,
+      "last_seen": 1786133473,
       "last_notified": 1785574674
     },
     "8a4ddbd4b59699029de06f6b19ae5782f911f7c1ad9e48c51b83af2eb0a34b8d": {
@@ -1966,7 +1966,7 @@
       "reference_price": 129.9,
       "discount": 72,
       "first_seen": 1785574674,
-      "last_seen": 1786095660,
+      "last_seen": 1786133473,
       "last_notified": 1785574674
     },
     "8c17a169a37ae06505263bd51ea8fa8e2e9976b0dae56301155de5910828eb03": {
@@ -2064,6 +2064,18 @@
       "first_seen": 1786003595,
       "last_seen": 1786104351,
       "last_notified": 1786003595
+    },
+    "7a789cf69045395b68a3f46160edb8ceefc54449eb4e0c56ff857b0665b68cc4": {
+      "title": "STARTER",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883301481/zapatillas-urbanas-hombre-starter/883301484",
+      "source": "Falabella - Zapatillas",
+      "seller": "FALABELLA",
+      "current_price": 35.97,
+      "reference_price": 129.9,
+      "discount": 72,
+      "first_seen": 1786133473,
+      "last_seen": 1786133473,
+      "last_notified": 1786133473
     }
   }
 }
