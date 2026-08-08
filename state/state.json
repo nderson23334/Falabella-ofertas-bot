@@ -1114,7 +1114,7 @@
       "reference_price": 129.9,
       "discount": 72,
       "first_seen": 1784850329,
-      "last_seen": 1786183578,
+      "last_seen": 1786189489,
       "last_notified": 1784850329
     },
     "39051914332784240f9bdc85627d4d26db577cd2809eacbcd90ba0185b4d867b": {
@@ -1498,7 +1498,7 @@
       "reference_price": 229.9,
       "discount": 70,
       "first_seen": 1785153771,
-      "last_seen": 1786183578,
+      "last_seen": 1786189489,
       "last_notified": 1785153771
     },
     "4aacc690ea254ac3df5931be63d77854a1d91ffa57d05305548ad18636c88e70": {
@@ -1666,7 +1666,7 @@
       "reference_price": 129.9,
       "discount": 70,
       "first_seen": 1785356281,
-      "last_seen": 1786183578,
+      "last_seen": 1786189489,
       "last_notified": 1785356281
     },
     "73dac139bedac2102f27c6937d78bba6ded9275a99c980de743d14a1ac5e0706": {
@@ -1750,7 +1750,7 @@
       "reference_price": 209.9,
       "discount": 70,
       "first_seen": 1785425773,
-      "last_seen": 1786162848,
+      "last_seen": 1786189489,
       "last_notified": 1785425773
     },
     "6c1a8762b04e7e16124738944df0d8d839ec70597656003363b6c4e6212b1d87": {
@@ -1942,7 +1942,7 @@
       "reference_price": 229.9,
       "discount": 70,
       "first_seen": 1785531171,
-      "last_seen": 1786183578,
+      "last_seen": 1786189489,
       "last_notified": 1785531171
     },
     "cf6b922dfb62880e7c052a1214b5e6e3ac3c787135d338e83cc518b8ec028756": {
@@ -1966,7 +1966,7 @@
       "reference_price": 129.9,
       "discount": 72,
       "first_seen": 1785574674,
-      "last_seen": 1786177425,
+      "last_seen": 1786189489,
       "last_notified": 1785574674
     },
     "8c17a169a37ae06505263bd51ea8fa8e2e9976b0dae56301155de5910828eb03": {
@@ -2050,7 +2050,7 @@
       "reference_price": 199.9,
       "discount": 70,
       "first_seen": 1785969306,
-      "last_seen": 1786183578,
+      "last_seen": 1786189489,
       "last_notified": 1785969306
     },
     "6e665119c497ca26cfae082e9ae5bd773ce3d2632e6da1958526d03b451f16b3": {
@@ -2088,6 +2088,18 @@
       "first_seen": 1786141229,
       "last_seen": 1786141229,
       "last_notified": 1786141229
+    },
+    "5ae997a1e518dfc301c8b022fd560c047ff2dc01ea675ff7b2b1a42ca25a29f0": {
+      "title": "SYBILLA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/881103757/jean-slouchy-tiro-alto-mujer-sybilla/881103760",
+      "source": "Falabella - Moda Mujer",
+      "seller": "FALABELLA",
+      "current_price": 24.9,
+      "reference_price": 89.9,
+      "discount": 72,
+      "first_seen": 1786189489,
+      "last_seen": 1786189489,
+      "last_notified": 1786189489
     }
   }
 }
