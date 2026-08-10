@@ -1114,7 +1114,7 @@
       "reference_price": 129.9,
       "discount": 72,
       "first_seen": 1784850329,
-      "last_seen": 1786391160,
+      "last_seen": 1786399458,
       "last_notified": 1784850329
     },
     "39051914332784240f9bdc85627d4d26db577cd2809eacbcd90ba0185b4d867b": {
@@ -1522,7 +1522,7 @@
       "reference_price": 229.9,
       "discount": 70,
       "first_seen": 1785175381,
-      "last_seen": 1786317483,
+      "last_seen": 1786399458,
       "last_notified": 1785175381
     },
     "792626b04532988fde4ca78e92dc333a0b6cb4e4bed1c783d1ece9e7754862fb": {
@@ -1582,7 +1582,7 @@
       "reference_price": 129.9,
       "discount": 70,
       "first_seen": 1785254245,
-      "last_seen": 1786147415,
+      "last_seen": 1786399458,
       "last_notified": 1785254245
     },
     "724c26a0644e71d9e3c29a56c6e3a6ea3280129109501cf8558f66d1e57bc5bf": {
@@ -1690,7 +1690,7 @@
       "reference_price": 89.9,
       "discount": 72,
       "first_seen": 1785398449,
-      "last_seen": 1786378204,
+      "last_seen": 1786399458,
       "last_notified": 1785398449
     },
     "60985c45010b44cdab3d332cec0571aacca8bca59f6c72e455c52615452b06ea": {
@@ -1774,7 +1774,7 @@
       "reference_price": 209.9,
       "discount": 70,
       "first_seen": 1785443106,
-      "last_seen": 1786356304,
+      "last_seen": 1786399458,
       "last_notified": 1785443106
     },
     "216e793698b3b4adcc8b1a46af5f7fb023eb92c5321937d375548029fed5fac9": {
@@ -1810,7 +1810,7 @@
       "reference_price": 229.9,
       "discount": 70,
       "first_seen": 1785455225,
-      "last_seen": 1786338601,
+      "last_seen": 1786399458,
       "last_notified": 1785455225
     },
     "919726f5b6cf0a5464b3a511d7deba82fd2ca35cd0454580d939caafb4706db7": {
@@ -1894,7 +1894,7 @@
       "reference_price": 129.9,
       "discount": 72,
       "first_seen": 1785515185,
-      "last_seen": 1786391160,
+      "last_seen": 1786399458,
       "last_notified": 1785515185
     },
     "6a43d84b1ccd2ecf2df153772f13d1ca21da4d0bf392b5c86e6700a915754220": {
@@ -2050,7 +2050,7 @@
       "reference_price": 199.9,
       "discount": 70,
       "first_seen": 1785969306,
-      "last_seen": 1786391160,
+      "last_seen": 1786399458,
       "last_notified": 1785969306
     },
     "6e665119c497ca26cfae082e9ae5bd773ce3d2632e6da1958526d03b451f16b3": {
@@ -2148,6 +2148,18 @@
       "first_seen": 1786391160,
       "last_seen": 1786391160,
       "last_notified": 1786391160
+    },
+    "47fae9da7233a90305a487bdb9e6244891376ea8d42f57778467c1faf02ea48d": {
+      "title": "DIADORA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883642553/zapatillas-urbanas-mujer-diadora/883642559",
+      "source": "Falabella - Zapatillas",
+      "seller": "FALABELLA",
+      "current_price": 68.97,
+      "reference_price": 229.9,
+      "discount": 70,
+      "first_seen": 1786399458,
+      "last_seen": 1786399458,
+      "last_notified": 1786399458
     }
   }
 }
