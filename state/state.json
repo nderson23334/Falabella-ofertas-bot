@@ -1690,7 +1690,7 @@
       "reference_price": 89.9,
       "discount": 72,
       "first_seen": 1785398449,
-      "last_seen": 1786356304,
+      "last_seen": 1786365418,
       "last_notified": 1785398449
     },
     "60985c45010b44cdab3d332cec0571aacca8bca59f6c72e455c52615452b06ea": {
@@ -2112,6 +2112,18 @@
       "first_seen": 1786205121,
       "last_seen": 1786218406,
       "last_notified": 1786205121
+    },
+    "be67c3329d76614754d338c650779b900bb20849aab15f0f105fd7931adc7a60": {
+      "title": "ELEVEN",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883646951/zapatillas-escolares-unisex-ninos-eleven-negro/883646953",
+      "source": "Falabella - Zapatillas",
+      "seller": "FALABELLA",
+      "current_price": 38.97,
+      "reference_price": 129.9,
+      "discount": 70,
+      "first_seen": 1786365418,
+      "last_seen": 1786365418,
+      "last_notified": 1786365418
     }
   }
 }
