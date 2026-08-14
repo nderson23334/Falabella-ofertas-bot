@@ -1114,7 +1114,7 @@
       "reference_price": 129.9,
       "discount": 72,
       "first_seen": 1784850329,
-      "last_seen": 1786686580,
+      "last_seen": 1786700680,
       "last_notified": 1784850329
     },
     "39051914332784240f9bdc85627d4d26db577cd2809eacbcd90ba0185b4d867b": {
@@ -1606,7 +1606,7 @@
       "reference_price": 129.9,
       "discount": 70,
       "first_seen": 1785271377,
-      "last_seen": 1786686580,
+      "last_seen": 1786700680,
       "last_notified": 1785271377
     },
     "c77d95d580cfd8d91f59cc6876d94c7608146f48cffacb5990dbd27cb98042fe": {
@@ -1709,12 +1709,12 @@
       "title": "DIADORA",
       "url": "https://www.falabella.com.pe/falabella-pe/product/883642448/zapatillas-urbanas-mujer-diadora/883642450",
       "source": "Falabella - Zapatillas",
-      "seller": "FALABELLA",
+      "seller": "Falabella",
       "current_price": 68.97,
       "reference_price": 229.9,
       "discount": 70,
       "first_seen": 1785398449,
-      "last_seen": 1786573544,
+      "last_seen": 1786700680,
       "last_notified": 1785398449
     },
     "02aad09fae89bd0dd7c7d77d50e8aa3280bfcb7adc5d1da2cd929741ef6877aa": {
@@ -1894,7 +1894,7 @@
       "reference_price": 129.9,
       "discount": 72,
       "first_seen": 1785515185,
-      "last_seen": 1786686580,
+      "last_seen": 1786700680,
       "last_notified": 1785515185
     },
     "6a43d84b1ccd2ecf2df153772f13d1ca21da4d0bf392b5c86e6700a915754220": {
@@ -1949,12 +1949,12 @@
       "title": "SYBILLA",
       "url": "https://www.falabella.com.pe/falabella-pe/product/881103757/jean-slouchy-tiro-alto-mujer-sybilla/881103766",
       "source": "Falabella - Moda Mujer",
-      "seller": "FALABELLA",
+      "seller": "Falabella",
       "current_price": 24.9,
       "reference_price": 89.9,
       "discount": 72,
       "first_seen": 1785574674,
-      "last_seen": 1786598381,
+      "last_seen": 1786700680,
       "last_notified": 1785574674
     },
     "8a4ddbd4b59699029de06f6b19ae5782f911f7c1ad9e48c51b83af2eb0a34b8d": {
@@ -2201,12 +2201,12 @@
       "title": "DIADORA",
       "url": "https://www.falabella.com.pe/falabella-pe/product/883642553/zapatillas-urbanas-mujer-diadora/883642555",
       "source": "Falabella - Zapatillas",
-      "seller": "FALABELLA",
+      "seller": "Falabella",
       "current_price": 68.97,
       "reference_price": 229.9,
       "discount": 70,
       "first_seen": 1786493216,
-      "last_seen": 1786565060,
+      "last_seen": 1786700680,
       "last_notified": 1786493216
     }
   }
