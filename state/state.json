@@ -1114,7 +1114,7 @@
       "reference_price": 129.9,
       "discount": 72,
       "first_seen": 1784850329,
-      "last_seen": 1786738079,
+      "last_seen": 1786741444,
       "last_notified": 1784850329
     },
     "39051914332784240f9bdc85627d4d26db577cd2809eacbcd90ba0185b4d867b": {
@@ -1522,7 +1522,7 @@
       "reference_price": 229.9,
       "discount": 70,
       "first_seen": 1785175381,
-      "last_seen": 1786731293,
+      "last_seen": 1786741444,
       "last_notified": 1785175381
     },
     "792626b04532988fde4ca78e92dc333a0b6cb4e4bed1c783d1ece9e7754862fb": {
@@ -1577,12 +1577,12 @@
       "title": "CONIGLIO",
       "url": "https://www.falabella.com.pe/falabella-pe/product/883644252/zapatillas-urbanas-nino-coniglio/883644264",
       "source": "Falabella - Zapatillas",
-      "seller": "FALABELLA",
+      "seller": "Falabella",
       "current_price": 38.97,
       "reference_price": 129.9,
       "discount": 70,
       "first_seen": 1785254245,
-      "last_seen": 1786473695,
+      "last_seen": 1786741444,
       "last_notified": 1785254245
     },
     "724c26a0644e71d9e3c29a56c6e3a6ea3280129109501cf8558f66d1e57bc5bf": {
@@ -1822,7 +1822,7 @@
       "reference_price": 89.9,
       "discount": 72,
       "first_seen": 1785492232,
-      "last_seen": 1786738079,
+      "last_seen": 1786741444,
       "last_notified": 1785492232
     },
     "67c5d744c9d725a5626588f5fc0c6f5b7f445bd6049881b7e4e5921753ae962a": {
@@ -1966,7 +1966,7 @@
       "reference_price": 129.9,
       "discount": 72,
       "first_seen": 1785574674,
-      "last_seen": 1786738079,
+      "last_seen": 1786741444,
       "last_notified": 1785574674
     },
     "8c17a169a37ae06505263bd51ea8fa8e2e9976b0dae56301155de5910828eb03": {
@@ -2206,7 +2206,7 @@
       "reference_price": 229.9,
       "discount": 70,
       "first_seen": 1786493216,
-      "last_seen": 1786738079,
+      "last_seen": 1786741444,
       "last_notified": 1786493216
     }
   }
