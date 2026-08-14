@@ -1114,7 +1114,7 @@
       "reference_price": 129.9,
       "discount": 72,
       "first_seen": 1784850329,
-      "last_seen": 1786656599,
+      "last_seen": 1786665849,
       "last_notified": 1784850329
     },
     "39051914332784240f9bdc85627d4d26db577cd2809eacbcd90ba0185b4d867b": {
@@ -1702,7 +1702,7 @@
       "reference_price": 129.9,
       "discount": 70,
       "first_seen": 1785398449,
-      "last_seen": 1786635326,
+      "last_seen": 1786665849,
       "last_notified": 1785398449
     },
     "d3b8e85f5b5a3073a44dd1d2ea520d67028ab48c3f442ba44011473c790af4ef": {
@@ -1786,7 +1786,7 @@
       "reference_price": 89.9,
       "discount": 72,
       "first_seen": 1785455225,
-      "last_seen": 1786635326,
+      "last_seen": 1786665849,
       "last_notified": 1785455225
     },
     "c166ffdebf32342cf97de3d0af132e0a35f3b9a3abc277fa1a294c4cbfeb16a7": {
@@ -1894,7 +1894,7 @@
       "reference_price": 129.9,
       "discount": 72,
       "first_seen": 1785515185,
-      "last_seen": 1786656599,
+      "last_seen": 1786665849,
       "last_notified": 1785515185
     },
     "6a43d84b1ccd2ecf2df153772f13d1ca21da4d0bf392b5c86e6700a915754220": {
@@ -1937,12 +1937,12 @@
       "title": "DIADORA",
       "url": "https://www.falabella.com.pe/falabella-pe/product/883643236/zapatillas-urbanas-hombre-diadora/883643238",
       "source": "Falabella - Zapatillas",
-      "seller": "FALABELLA",
+      "seller": "Falabella",
       "current_price": 68.97,
       "reference_price": 229.9,
       "discount": 70,
       "first_seen": 1785531171,
-      "last_seen": 1786565060,
+      "last_seen": 1786665849,
       "last_notified": 1785531171
     },
     "cf6b922dfb62880e7c052a1214b5e6e3ac3c787135d338e83cc518b8ec028756": {
@@ -1997,12 +1997,12 @@
       "title": "DIADORA",
       "url": "https://www.falabella.com.pe/falabella-pe/product/883642448/zapatillas-urbanas-mujer-diadora/883642451",
       "source": "Falabella - Zapatillas",
-      "seller": "FALABELLA",
+      "seller": "Falabella",
       "current_price": 68.97,
       "reference_price": 229.9,
       "discount": 70,
       "first_seen": 1785614659,
-      "last_seen": 1786513815,
+      "last_seen": 1786665849,
       "last_notified": 1785614659
     },
     "04b613304705f37f4ef0f3af6989bd8d11fe71c6bc1355b9d31bf19eeeba7999": {
@@ -2170,7 +2170,7 @@
       "reference_price": 229.9,
       "discount": 70,
       "first_seen": 1786406234,
-      "last_seen": 1786656599,
+      "last_seen": 1786665849,
       "last_notified": 1786406234
     },
     "615a4a0148d9cb95df1a3b1ad19453c3f14c6fbf6bc6ae4bbc3407f7f3082bd6": {
