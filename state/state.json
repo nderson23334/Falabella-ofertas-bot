@@ -1498,7 +1498,7 @@
       "reference_price": 229.9,
       "discount": 70,
       "first_seen": 1785153771,
-      "last_seen": 1786769576,
+      "last_seen": 1786779960,
       "last_notified": 1785153771
     },
     "4aacc690ea254ac3df5931be63d77854a1d91ffa57d05305548ad18636c88e70": {
@@ -1690,7 +1690,7 @@
       "reference_price": 89.9,
       "discount": 72,
       "first_seen": 1785398449,
-      "last_seen": 1786773596,
+      "last_seen": 1786779960,
       "last_notified": 1785398449
     },
     "60985c45010b44cdab3d332cec0571aacca8bca59f6c72e455c52615452b06ea": {
@@ -1702,7 +1702,7 @@
       "reference_price": 129.9,
       "discount": 70,
       "first_seen": 1785398449,
-      "last_seen": 1786748275,
+      "last_seen": 1786779960,
       "last_notified": 1785398449
     },
     "d3b8e85f5b5a3073a44dd1d2ea520d67028ab48c3f442ba44011473c790af4ef": {
@@ -1894,7 +1894,7 @@
       "reference_price": 129.9,
       "discount": 72,
       "first_seen": 1785515185,
-      "last_seen": 1786769576,
+      "last_seen": 1786779960,
       "last_notified": 1785515185
     },
     "6a43d84b1ccd2ecf2df153772f13d1ca21da4d0bf392b5c86e6700a915754220": {
@@ -2081,12 +2081,12 @@
       "title": "STARTER",
       "url": "https://www.falabella.com.pe/falabella-pe/product/883301481/zapatillas-urbanas-hombre-starter/883301486",
       "source": "Falabella - Zapatillas",
-      "seller": "FALABELLA",
+      "seller": "Falabella",
       "current_price": 35.97,
       "reference_price": 129.9,
       "discount": 72,
       "first_seen": 1786141229,
-      "last_seen": 1786141229,
+      "last_seen": 1786779960,
       "last_notified": 1786141229
     },
     "5ae997a1e518dfc301c8b022fd560c047ff2dc01ea675ff7b2b1a42ca25a29f0": {
@@ -2170,7 +2170,7 @@
       "reference_price": 229.9,
       "discount": 70,
       "first_seen": 1786406234,
-      "last_seen": 1786751895,
+      "last_seen": 1786779960,
       "last_notified": 1786406234
     },
     "615a4a0148d9cb95df1a3b1ad19453c3f14c6fbf6bc6ae4bbc3407f7f3082bd6": {
