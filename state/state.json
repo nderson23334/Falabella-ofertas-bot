@@ -1114,7 +1114,7 @@
       "reference_price": 129.9,
       "discount": 72,
       "first_seen": 1784850329,
-      "last_seen": 1786751895,
+      "last_seen": 1786763274,
       "last_notified": 1784850329
     },
     "39051914332784240f9bdc85627d4d26db577cd2809eacbcd90ba0185b4d867b": {
@@ -1649,12 +1649,12 @@
       "title": "SYBILLA",
       "url": "https://www.falabella.com.pe/falabella-pe/product/881103757/jean-slouchy-tiro-alto-mujer-sybilla/881103772",
       "source": "Falabella - Moda Mujer",
-      "seller": "FALABELLA",
+      "seller": "Falabella",
       "current_price": 24.9,
       "reference_price": 89.9,
       "discount": 72,
       "first_seen": 1785356281,
-      "last_seen": 1786565060,
+      "last_seen": 1786763274,
       "last_notified": 1785356281
     },
     "d6eee3ae0a4bf77dc9c42d2d756e177ed9e4f6e21324def7a6f961b1a8734c08": {
@@ -1793,12 +1793,12 @@
       "title": "CONIGLIO",
       "url": "https://www.falabella.com.pe/falabella-pe/product/883644252/zapatillas-urbanas-nino-coniglio/883644257",
       "source": "Falabella - Zapatillas",
-      "seller": "FALABELLA",
+      "seller": "Falabella",
       "current_price": 38.97,
       "reference_price": 129.9,
       "discount": 70,
       "first_seen": 1785455225,
-      "last_seen": 1786614259,
+      "last_seen": 1786763274,
       "last_notified": 1785455225
     },
     "2e9e422c65af894f6063f4bca30a0e55997406c9f1a9ec0d034c636d95793377": {
@@ -1966,7 +1966,7 @@
       "reference_price": 129.9,
       "discount": 72,
       "first_seen": 1785574674,
-      "last_seen": 1786744566,
+      "last_seen": 1786763274,
       "last_notified": 1785574674
     },
     "8c17a169a37ae06505263bd51ea8fa8e2e9976b0dae56301155de5910828eb03": {
@@ -2002,7 +2002,7 @@
       "reference_price": 229.9,
       "discount": 70,
       "first_seen": 1785614659,
-      "last_seen": 1786751895,
+      "last_seen": 1786763274,
       "last_notified": 1785614659
     },
     "04b613304705f37f4ef0f3af6989bd8d11fe71c6bc1355b9d31bf19eeeba7999": {
@@ -2206,7 +2206,7 @@
       "reference_price": 229.9,
       "discount": 70,
       "first_seen": 1786493216,
-      "last_seen": 1786741444,
+      "last_seen": 1786763274,
       "last_notified": 1786493216
     }
   }
