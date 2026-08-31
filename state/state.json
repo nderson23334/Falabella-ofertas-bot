@@ -1882,7 +1882,7 @@
       "reference_price": 89.9,
       "discount": 81,
       "first_seen": 1785515185,
-      "last_seen": 1787973881,
+      "last_seen": 1788159583,
       "last_notified": 1787664497
     },
     "634695a1d5eb9f9f5fe718c2c0249ab1211b75a5b5318a5b0b4adb70ff50bbb2": {
@@ -2218,7 +2218,7 @@
       "reference_price": 219.9,
       "discount": 84,
       "first_seen": 1786877769,
-      "last_seen": 1788137670,
+      "last_seen": 1788159583,
       "last_notified": 1786877769
     },
     "52865d70bb45a4ffc4bb7fb8abdb4228dda7f1fdb104057bb997d536bce2d2df": {
@@ -2304,6 +2304,18 @@
       "first_seen": 1788120353,
       "last_seen": 1788129807,
       "last_notified": 1788120353
+    },
+    "6f52b3356ccc33593c49779164fc53d90a2f5789d9f25bac2bcd141e3eb0799d": {
+      "title": "STEFANO COCCI",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883302256/zapatillas-urbanas-mujer-stefano-cocci/883302259",
+      "source": "Falabella - Zapatillas",
+      "seller": "Falabella",
+      "current_price": 34.9,
+      "reference_price": 129.9,
+      "discount": 73,
+      "first_seen": 1788159583,
+      "last_seen": 1788159583,
+      "last_notified": 1788159583
     }
   }
 }
