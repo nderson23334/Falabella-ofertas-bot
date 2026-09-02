@@ -2117,13 +2117,13 @@
       "title": "ELEVEN",
       "url": "https://www.falabella.com.pe/falabella-pe/product/883646951/zapatillas-escolares-unisex-ninos-eleven-negro/883646953",
       "source": "Falabella - Zapatillas",
-      "seller": "FALABELLA",
-      "current_price": 38.97,
+      "seller": "Falabella",
+      "current_price": 34.9,
       "reference_price": 129.9,
-      "discount": 70,
+      "discount": 73,
       "first_seen": 1786365418,
-      "last_seen": 1786437316,
-      "last_notified": 1786365418
+      "last_seen": 1788375134,
+      "last_notified": 1788375134
     },
     "3e269a7bfd07c29a8609ddd0be1d134767d8f8bb5a89283133f0ffea9c944809": {
       "title": "DIADORA",
@@ -2352,6 +2352,18 @@
       "first_seen": 1788347612,
       "last_seen": 1788361939,
       "last_notified": 1788347612
+    },
+    "93fe079e002ef3a3933da350b330e62245a03fed02546dcc407e543e4e1f0677": {
+      "title": "RECCO",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/881985227/waflera-redonda-rce-waffle100r/881985227",
+      "source": "Falabella - Electrohogar",
+      "seller": "Falabella",
+      "current_price": 39.9,
+      "reference_price": 149.9,
+      "discount": 73,
+      "first_seen": 1788375134,
+      "last_seen": 1788375134,
+      "last_notified": 1788375134
     }
   }
 }
