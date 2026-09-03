@@ -2338,7 +2338,7 @@
       "reference_price": 129.9,
       "discount": 73,
       "first_seen": 1788221351,
-      "last_seen": 1788435962,
+      "last_seen": 1788461404,
       "last_notified": 1788221351
     },
     "31acf9ed53c466b31baa8d9ce3e21464b361fa8ca725173513bc96cf8b06d3b2": {
@@ -2436,6 +2436,18 @@
       "first_seen": 1788448561,
       "last_seen": 1788448561,
       "last_notified": 1788448561
+    },
+    "90e00ed3eb897f921ab070bad8d0c6e03900225c94ba1af77d5f9e5410b5ec95": {
+      "title": "DIADORA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883548907/zapatillas-urbanas-mujer-diadora/883548913",
+      "source": "Falabella - Zapatillas",
+      "seller": "Falabella",
+      "current_price": 59.9,
+      "reference_price": 229.9,
+      "discount": 74,
+      "first_seen": 1788461404,
+      "last_seen": 1788461404,
+      "last_notified": 1788461404
     }
   }
 }
