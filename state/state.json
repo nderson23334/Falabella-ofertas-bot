@@ -2302,7 +2302,7 @@
       "reference_price": 129.9,
       "discount": 73,
       "first_seen": 1788120353,
-      "last_seen": 1788305280,
+      "last_seen": 1788417108,
       "last_notified": 1788120353
     },
     "6f52b3356ccc33593c49779164fc53d90a2f5789d9f25bac2bcd141e3eb0799d": {
@@ -2376,6 +2376,30 @@
       "first_seen": 1788385620,
       "last_seen": 1788399030,
       "last_notified": 1788385620
+    },
+    "ba51fe490c9c8c1be381ea65b24edc86f9f1ac85acadf340a367b44e051b2a79": {
+      "title": "DIADORA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883548907/zapatillas-urbanas-mujer-diadora/883548909",
+      "source": "Falabella - Zapatillas",
+      "seller": "Falabella",
+      "current_price": 59.9,
+      "reference_price": 229.9,
+      "discount": 74,
+      "first_seen": 1788417108,
+      "last_seen": 1788417108,
+      "last_notified": 1788417108
+    },
+    "08b6205e072212358d5c41e88dbb61a14b7a34c869eecbfb0f18567f613ddbc4": {
+      "title": "LA MARTINA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883568118/chaqueta-de-cuero-mujer-la-martina/883568122",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 229.9,
+      "reference_price": 799.9,
+      "discount": 71,
+      "first_seen": 1788417108,
+      "last_seen": 1788417108,
+      "last_notified": 1788417108
     }
   }
 }
