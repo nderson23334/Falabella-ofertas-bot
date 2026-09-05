@@ -2302,7 +2302,7 @@
       "reference_price": 129.9,
       "discount": 73,
       "first_seen": 1788120353,
-      "last_seen": 1788600420,
+      "last_seen": 1788613019,
       "last_notified": 1788120353
     },
     "6f52b3356ccc33593c49779164fc53d90a2f5789d9f25bac2bcd141e3eb0799d": {
@@ -2446,7 +2446,7 @@
       "reference_price": 229.9,
       "discount": 74,
       "first_seen": 1788461404,
-      "last_seen": 1788600420,
+      "last_seen": 1788613019,
       "last_notified": 1788461404
     },
     "b9ce24c3ab37bc5df671d072f66fe9135ebb32d273244d06a965027a333ac73d": {
@@ -2458,7 +2458,7 @@
       "reference_price": 229.9,
       "discount": 74,
       "first_seen": 1788521634,
-      "last_seen": 1788569621,
+      "last_seen": 1788613019,
       "last_notified": 1788521634
     },
     "4f95f0aa1304a7582492bfff383289eaa377c739fc54b561d4206d26e846406a": {
@@ -2494,7 +2494,7 @@
       "reference_price": 799.9,
       "discount": 71,
       "first_seen": 1788534547,
-      "last_seen": 1788562945,
+      "last_seen": 1788613019,
       "last_notified": 1788534547
     },
     "0e38a596d911fc7f9741457cae2b737f185d9242831dd4be079950ffe39e4127": {
@@ -2520,6 +2520,18 @@
       "first_seen": 1788600420,
       "last_seen": 1788600420,
       "last_notified": 1788600420
+    },
+    "d97c70ad27aa723be538653efc9c72a1e3fd9c31ef5bb34e541bd35e07826ac9": {
+      "title": "BASEMENT",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883549807/zapatillas-urbanas-mujer-basement/883549812",
+      "source": "Falabella - Zapatillas",
+      "seller": "Falabella",
+      "current_price": 59.9,
+      "reference_price": 199.9,
+      "discount": 70,
+      "first_seen": 1788613019,
+      "last_seen": 1788613019,
+      "last_notified": 1788613019
     }
   }
 }
