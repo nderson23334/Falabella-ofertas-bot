@@ -2302,7 +2302,7 @@
       "reference_price": 129.9,
       "discount": 73,
       "first_seen": 1788120353,
-      "last_seen": 1788685140,
+      "last_seen": 1788699140,
       "last_notified": 1788120353
     },
     "6f52b3356ccc33593c49779164fc53d90a2f5789d9f25bac2bcd141e3eb0799d": {
@@ -2386,7 +2386,7 @@
       "reference_price": 229.9,
       "discount": 74,
       "first_seen": 1788417108,
-      "last_seen": 1788685140,
+      "last_seen": 1788699140,
       "last_notified": 1788417108
     },
     "08b6205e072212358d5c41e88dbb61a14b7a34c869eecbfb0f18567f613ddbc4": {
@@ -2542,7 +2542,7 @@
       "reference_price": 199.9,
       "discount": 70,
       "first_seen": 1788624060,
-      "last_seen": 1788685140,
+      "last_seen": 1788699140,
       "last_notified": 1788624060
     },
     "1c566efee557edc25d1863d6dbc0a08d74963fbca01384d5dbbc0d6fc7c2f6c4": {
@@ -2554,7 +2554,7 @@
       "reference_price": 229.9,
       "discount": 74,
       "first_seen": 1788646930,
-      "last_seen": 1788646930,
+      "last_seen": 1788699140,
       "last_notified": 1788646930
     }
   }
