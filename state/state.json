@@ -2362,7 +2362,7 @@
       "reference_price": 149.9,
       "discount": 73,
       "first_seen": 1788375134,
-      "last_seen": 1788569621,
+      "last_seen": 1788928679,
       "last_notified": 1788375134
     },
     "5cb8cffac9ee5c662c5015acb0d3e46b468bbbf63c041f056b3a4a2048ca8bad": {
@@ -2542,7 +2542,7 @@
       "reference_price": 199.9,
       "discount": 70,
       "first_seen": 1788624060,
-      "last_seen": 1788912494,
+      "last_seen": 1788928679,
       "last_notified": 1788624060
     },
     "1c566efee557edc25d1863d6dbc0a08d74963fbca01384d5dbbc0d6fc7c2f6c4": {
@@ -2580,6 +2580,18 @@
       "first_seen": 1788803366,
       "last_seen": 1788881047,
       "last_notified": 1788803366
+    },
+    "f5a8cf87969f3299821c1cc0edf5d47804780153ae7dabb03c82490d902563a0": {
+      "title": "RECCO",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/881985225/wafflera-negra-rce-waffle100n/881985225",
+      "source": "Falabella - Electrohogar",
+      "seller": "Falabella",
+      "current_price": 34.9,
+      "reference_price": 149.9,
+      "discount": 77,
+      "first_seen": 1788928679,
+      "last_seen": 1788928679,
+      "last_notified": 1788928679
     }
   }
 }
