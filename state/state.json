@@ -2542,7 +2542,7 @@
       "reference_price": 199.9,
       "discount": 70,
       "first_seen": 1788624060,
-      "last_seen": 1788984308,
+      "last_seen": 1789238939,
       "last_notified": 1788624060
     },
     "1c566efee557edc25d1863d6dbc0a08d74963fbca01384d5dbbc0d6fc7c2f6c4": {
@@ -2614,7 +2614,7 @@
       "reference_price": 59.9,
       "discount": 72,
       "first_seen": 1789220824,
-      "last_seen": 1789230884,
+      "last_seen": 1789238939,
       "last_notified": 1789220824
     }
   }
