@@ -2566,7 +2566,7 @@
       "reference_price": 199.9,
       "discount": 70,
       "first_seen": 1788711124,
-      "last_seen": 1789794620,
+      "last_seen": 1789810807,
       "last_notified": 1788711124
     },
     "ac4641f499da87f1159c183befdb8264f852759759b0f722a071d930c971db39": {
@@ -2650,7 +2650,7 @@
       "reference_price": 59.9,
       "discount": 72,
       "first_seen": 1789348761,
-      "last_seen": 1789604825,
+      "last_seen": 1789810807,
       "last_notified": 1789348761
     },
     "938fe2170f3fc1b0005bf420f667faa00eac0e74d906156566a99cadf0073a61": {
@@ -2712,6 +2712,18 @@
       "first_seen": 1789761703,
       "last_seen": 1789794620,
       "last_notified": 1789761703
+    },
+    "b004d02557e6bcd4a26447a666cad2cc47cdf41954604f8fc7c8d3907a2b2d14": {
+      "title": "SYBILLA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883211012/sandalias-casuales-mujer-sybilla/883211018",
+      "source": "Falabella - Zapatillas",
+      "seller": "Falabella",
+      "current_price": 22.9,
+      "reference_price": 79.9,
+      "discount": 71,
+      "first_seen": 1789810807,
+      "last_seen": 1789810807,
+      "last_notified": 1789810807
     }
   }
 }
