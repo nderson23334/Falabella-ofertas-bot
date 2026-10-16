@@ -2818,7 +2818,7 @@
       "reference_price": 129.9,
       "discount": 72,
       "first_seen": 1791927353,
-      "last_seen": 1792111792,
+      "last_seen": 1792129682,
       "last_notified": 1791927353
     },
     "760dd98355aaf1fc365e385f5613d78283874478b46390a33724dbe4ec0befd0": {
@@ -2832,6 +2832,30 @@
       "first_seen": 1791974367,
       "last_seen": 1792063247,
       "last_notified": 1791974367
+    },
+    "7c9a7cea70d5cb1aefdb73e2299dd8cad8427c2c57c5de3b79f8448e9578ddcd": {
+      "title": "SYBILLA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/881013353/chompa-casual-mujer-sybilla/881013356",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 17.97,
+      "reference_price": 59.9,
+      "discount": 70,
+      "first_seen": 1792129682,
+      "last_seen": 1792129682,
+      "last_notified": 1792129682
+    },
+    "5deecc758d464acd89725e1e4962e398ef3e784c7cafea29f5c969901e612285": {
+      "title": "DOO AUSTRALIA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/19938195/casaca-de-jean-mujer-doo-australia/19938204",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 38.97,
+      "reference_price": 129.9,
+      "discount": 70,
+      "first_seen": 1792129682,
+      "last_seen": 1792129682,
+      "last_notified": 1792129682
     }
   }
 }
