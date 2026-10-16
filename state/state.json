@@ -2818,7 +2818,7 @@
       "reference_price": 129.9,
       "discount": 72,
       "first_seen": 1791927353,
-      "last_seen": 1792162680,
+      "last_seen": 1792187265,
       "last_notified": 1791927353
     },
     "760dd98355aaf1fc365e385f5613d78283874478b46390a33724dbe4ec0befd0": {
@@ -3094,7 +3094,7 @@
       "reference_price": 99.9,
       "discount": 70,
       "first_seen": 1792162680,
-      "last_seen": 1792176418,
+      "last_seen": 1792187265,
       "last_notified": 1792162680
     },
     "3de6b541170b3d6b3feb4207dee86b299139f6b070467fbacbd81bd64dd0c696": {
@@ -3202,7 +3202,7 @@
       "reference_price": 169.9,
       "discount": 70,
       "first_seen": 1792162680,
-      "last_seen": 1792162680,
+      "last_seen": 1792187265,
       "last_notified": 1792162680
     },
     "4650d36f01a29e33fa27833808d4a2d60fb3b00a1a025e568de177791ee89a7b": {
@@ -3214,7 +3214,7 @@
       "reference_price": 169.9,
       "discount": 70,
       "first_seen": 1792162680,
-      "last_seen": 1792162680,
+      "last_seen": 1792187265,
       "last_notified": 1792162680
     },
     "154541cff80bed3b82d099811b7f14160dc25b9f2e51880792fdd86728dedf60": {
@@ -3274,7 +3274,7 @@
       "reference_price": 129.9,
       "discount": 70,
       "first_seen": 1792176418,
-      "last_seen": 1792176418,
+      "last_seen": 1792187265,
       "last_notified": 1792176418
     },
     "af499fa72380a2d53ddab53b5523dc34c8f5260bb984ce9093368ee84b34749b": {
@@ -3324,6 +3324,102 @@
       "first_seen": 1792176418,
       "last_seen": 1792176418,
       "last_notified": 1792176418
+    },
+    "aab62873500ccb13c8dbca0f94470c0f02bc510c0adf290c674dde1fd6f20176": {
+      "title": "UNIVERSITY CLUB",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883347522/polera-algodon-mujer-university-club/883674507",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 23.97,
+      "reference_price": 79.9,
+      "discount": 70,
+      "first_seen": 1792187265,
+      "last_seen": 1792187265,
+      "last_notified": 1792187265
+    },
+    "01051766f870cc757649d03969887c1a5209bdb6895cbfce8697145cc7e1a6cc": {
+      "title": "BASEMENT",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/882444192/chompa-manga-larga-mujer-basement/882444199",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 26.97,
+      "reference_price": 89.9,
+      "discount": 70,
+      "first_seen": 1792187265,
+      "last_seen": 1792187265,
+      "last_notified": 1792187265
+    },
+    "70a038ebfbe4e9a2e72efc00cd169c32580cdf5e4fe1455eef01ddf116492aa9": {
+      "title": "BASEMENT",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/882075989/chompa-manga-larga-mujer-basement/883844251",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 26.97,
+      "reference_price": 89.9,
+      "discount": 70,
+      "first_seen": 1792187265,
+      "last_seen": 1792187265,
+      "last_notified": 1792187265
+    },
+    "2f5016a970a3420d195347f323adc60d7f7083d39390b80e1d6456dbd845273d": {
+      "title": "STEFANO COCCI",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883848042/chaleco-quilt-ttv/883848050",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 29.97,
+      "reference_price": 99.9,
+      "discount": 70,
+      "first_seen": 1792187265,
+      "last_seen": 1792187265,
+      "last_notified": 1792187265
+    },
+    "095c60ef3c976ad6cf4749ba78ce1e95857523f89e37c78ffeb19e9cf8178c76": {
+      "title": "NEWPORT",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883849569/chaleco-quilt-ttv/883849574",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 35.97,
+      "reference_price": 119.9,
+      "discount": 70,
+      "first_seen": 1792187265,
+      "last_seen": 1792187265,
+      "last_notified": 1792187265
+    },
+    "30c2b7dfae5d36bfd403cb3359f6d7dbd6158f6214bab136f3cdaa6f99ffc8ad": {
+      "title": "DIADORA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883863713/cortaviento-dep-cv-m-flech/883863725",
+      "source": "Falabella - Deportes",
+      "seller": "Falabella",
+      "current_price": 44.97,
+      "reference_price": 149.9,
+      "discount": 70,
+      "first_seen": 1792187265,
+      "last_seen": 1792187265,
+      "last_notified": 1792187265
+    },
+    "b896f089fe11ba10c45e1ad02cd4e443688bd405a61aee9a084bd5e52b4e51a7": {
+      "title": "UNIVERSITY CLUB",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883847214/casaca-fp/883847236",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 44.97,
+      "reference_price": 149.9,
+      "discount": 70,
+      "first_seen": 1792187265,
+      "last_seen": 1792187265,
+      "last_notified": 1792187265
+    },
+    "e48a72f7cd800787a19f6cd3b9edc0602ba4848c941fc706e8379db6900373ae": {
+      "title": "BASEMENT",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/80079913/abrigo-mujer-basement/80079926",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 47.97,
+      "reference_price": 159.9,
+      "discount": 70,
+      "first_seen": 1792187265,
+      "last_seen": 1792187265,
+      "last_notified": 1792187265
     }
   }
 }
