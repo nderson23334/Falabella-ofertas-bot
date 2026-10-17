@@ -1894,7 +1894,7 @@
       "reference_price": 129.9,
       "discount": 72,
       "first_seen": 1785515185,
-      "last_seen": 1792270235,
+      "last_seen": 1792278266,
       "last_notified": 1785515185
     },
     "6a43d84b1ccd2ecf2df153772f13d1ca21da4d0bf392b5c86e6700a915754220": {
@@ -2890,7 +2890,7 @@
       "reference_price": 89.9,
       "discount": 70,
       "first_seen": 1792145447,
-      "last_seen": 1792270235,
+      "last_seen": 1792278266,
       "last_notified": 1792145447
     },
     "0ec66842a27446f67088f743afd417e07c643c3b7fe227b9badffd24cceffe40": {
@@ -2938,7 +2938,7 @@
       "reference_price": 99.9,
       "discount": 70,
       "first_seen": 1792145447,
-      "last_seen": 1792145447,
+      "last_seen": 1792278266,
       "last_notified": 1792145447
     },
     "9554b2aa1207b06921bec1b4a055407deef4d314ca021a4e4bd1dea2c1f5af28": {
@@ -3694,7 +3694,7 @@
       "reference_price": 89.9,
       "discount": 70,
       "first_seen": 1792240101,
-      "last_seen": 1792270235,
+      "last_seen": 1792278266,
       "last_notified": 1792240101
     },
     "593a0b5cff63fcad41ab99aeaf0aac0578dc4744bcee835c9569fde3f14d3cdd": {
@@ -3910,7 +3910,7 @@
       "reference_price": 89.9,
       "discount": 70,
       "first_seen": 1792261576,
-      "last_seen": 1792270235,
+      "last_seen": 1792278266,
       "last_notified": 1792261576
     },
     "d9be1e54d0f79bcdc05495d290bef17b3756124d4d19d045789c3b69f461db22": {
@@ -3922,7 +3922,7 @@
       "reference_price": 99.9,
       "discount": 70,
       "first_seen": 1792261576,
-      "last_seen": 1792261576,
+      "last_seen": 1792278266,
       "last_notified": 1792261576
     },
     "3c99bc5a75343eb9588c8b3e03819658734a5611368bfff388abf82592fabfac": {
@@ -3958,7 +3958,7 @@
       "reference_price": 79.9,
       "discount": 70,
       "first_seen": 1792270235,
-      "last_seen": 1792270235,
+      "last_seen": 1792278266,
       "last_notified": 1792270235
     },
     "c6aef381d1f97f99e80bc311985642c4f976315f59c2c758a4f5eb279d4aa3ae": {
@@ -4018,8 +4018,80 @@
       "reference_price": 159.9,
       "discount": 70,
       "first_seen": 1792270235,
-      "last_seen": 1792270235,
+      "last_seen": 1792278266,
       "last_notified": 1792270235
+    },
+    "a20895e385e10a146f799caca4ec6a191e1f48fdf78e0613f43810a5b41c5b4a": {
+      "title": "NEWPORT",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883849569/chaleco-quilt-ttv/883849575",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 35.97,
+      "reference_price": 119.9,
+      "discount": 70,
+      "first_seen": 1792278266,
+      "last_seen": 1792278266,
+      "last_notified": 1792278266
+    },
+    "94f622b802ca07c7c39cc45a898acf395b33ccf792f917d10a65456b91229ff8": {
+      "title": "STEFANO COCCI",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883848445/parka-quilt-ttv/883848454",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 38.97,
+      "reference_price": 129.9,
+      "discount": 70,
+      "first_seen": 1792278266,
+      "last_seen": 1792278266,
+      "last_notified": 1792278266
+    },
+    "c93fc48be31331d03044b36f3c0c9331fef97ee9ff75e4933065a85c66f58d02": {
+      "title": "DIADORA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883863713/cortaviento-dep-cv-m-flech/883863714",
+      "source": "Falabella - Deportes",
+      "seller": "Falabella",
+      "current_price": 44.97,
+      "reference_price": 149.9,
+      "discount": 70,
+      "first_seen": 1792278266,
+      "last_seen": 1792278266,
+      "last_notified": 1792278266
+    },
+    "5c658b3f64c1f16b2539afdabcc8538ecd3706f5d2db642967d1bc8e18e3204c": {
+      "title": "UNIVERSITY CLUB",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883847214/casaca-fp/883847225",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 44.97,
+      "reference_price": 149.9,
+      "discount": 70,
+      "first_seen": 1792278266,
+      "last_seen": 1792278266,
+      "last_notified": 1792278266
+    },
+    "fd8923200e63d8950648ac6be528dc22ef5344ddfaa77ce44542a37bf729c4db": {
+      "title": "SYBILLA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883922021/chaqueta-ff4cf4cas8/883922023",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 50.97,
+      "reference_price": 169.9,
+      "discount": 70,
+      "first_seen": 1792278266,
+      "last_seen": 1792278266,
+      "last_notified": 1792278266
+    },
+    "286820c87f2b4a772b30584a50ef9b0abe8a3bf21945d6b31c1522fa3be3b32a": {
+      "title": "SYBILLA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883922007/casaca-liviana-cuello-funnel/883933652",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 50.97,
+      "reference_price": 169.9,
+      "discount": 70,
+      "first_seen": 1792278266,
+      "last_seen": 1792278266,
+      "last_notified": 1792278266
     }
   }
 }
