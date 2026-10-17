@@ -1894,7 +1894,7 @@
       "reference_price": 129.9,
       "discount": 72,
       "first_seen": 1785515185,
-      "last_seen": 1792261576,
+      "last_seen": 1792270235,
       "last_notified": 1785515185
     },
     "6a43d84b1ccd2ecf2df153772f13d1ca21da4d0bf392b5c86e6700a915754220": {
@@ -2890,7 +2890,7 @@
       "reference_price": 89.9,
       "discount": 70,
       "first_seen": 1792145447,
-      "last_seen": 1792261576,
+      "last_seen": 1792270235,
       "last_notified": 1792145447
     },
     "0ec66842a27446f67088f743afd417e07c643c3b7fe227b9badffd24cceffe40": {
@@ -3106,7 +3106,7 @@
       "reference_price": 99.9,
       "discount": 70,
       "first_seen": 1792162680,
-      "last_seen": 1792261576,
+      "last_seen": 1792270235,
       "last_notified": 1792162680
     },
     "dd9b906c0cfdc480f0c54eec3a220c192e49dbaaa0d59b2dea0a3476a2a3d846": {
@@ -3526,7 +3526,7 @@
       "reference_price": 169.9,
       "discount": 70,
       "first_seen": 1792195139,
-      "last_seen": 1792195139,
+      "last_seen": 1792270235,
       "last_notified": 1792195139
     },
     "bb4754845a608f492a9e9a72837a329ad37d9f26dc50f8accc984dca706c1c7a": {
@@ -3694,7 +3694,7 @@
       "reference_price": 89.9,
       "discount": 70,
       "first_seen": 1792240101,
-      "last_seen": 1792261576,
+      "last_seen": 1792270235,
       "last_notified": 1792240101
     },
     "593a0b5cff63fcad41ab99aeaf0aac0578dc4744bcee835c9569fde3f14d3cdd": {
@@ -3790,7 +3790,7 @@
       "reference_price": 129.9,
       "discount": 70,
       "first_seen": 1792240101,
-      "last_seen": 1792261576,
+      "last_seen": 1792270235,
       "last_notified": 1792240101
     },
     "42c2d62c134575cc7411a9bfbe53911a2be09da9ff5d4efc32cd9d7ab56bc74b": {
@@ -3910,7 +3910,7 @@
       "reference_price": 89.9,
       "discount": 70,
       "first_seen": 1792261576,
-      "last_seen": 1792261576,
+      "last_seen": 1792270235,
       "last_notified": 1792261576
     },
     "d9be1e54d0f79bcdc05495d290bef17b3756124d4d19d045789c3b69f461db22": {
@@ -3946,8 +3946,80 @@
       "reference_price": 169.9,
       "discount": 70,
       "first_seen": 1792261576,
-      "last_seen": 1792261576,
+      "last_seen": 1792270235,
       "last_notified": 1792261576
+    },
+    "830c0a0cc45e712ccbee8e62a8063339ed187a77e8c5c604b5c6348bd80d2850": {
+      "title": "UNIVERSITY CLUB",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883347522/polera-algodon-mujer-university-club/883790538",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 23.97,
+      "reference_price": 79.9,
+      "discount": 70,
+      "first_seen": 1792270235,
+      "last_seen": 1792270235,
+      "last_notified": 1792270235
+    },
+    "c6aef381d1f97f99e80bc311985642c4f976315f59c2c758a4f5eb279d4aa3ae": {
+      "title": "DENIMLAB",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883846622/chaleco-zipper-hoodie-trenzado/883846629",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 29.97,
+      "reference_price": 99.9,
+      "discount": 70,
+      "first_seen": 1792270235,
+      "last_seen": 1792270235,
+      "last_notified": 1792270235
+    },
+    "522c6749a9343b6ba95b28e8dca3338d11e4d02d08b957ca38f40342dfa54dc2": {
+      "title": "NEWPORT",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883849569/chaleco-quilt-ttv/883849570",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 35.97,
+      "reference_price": 119.9,
+      "discount": 70,
+      "first_seen": 1792270235,
+      "last_seen": 1792270235,
+      "last_notified": 1792270235
+    },
+    "f85dd051c6a5ef4f808242b0fb700ffd52f8851df70d3569ce0a7eb872e28381": {
+      "title": "DIADORA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883863713/cortaviento-dep-cv-m-flech/883863721",
+      "source": "Falabella - Deportes",
+      "seller": "Falabella",
+      "current_price": 44.97,
+      "reference_price": 149.9,
+      "discount": 70,
+      "first_seen": 1792270235,
+      "last_seen": 1792270235,
+      "last_notified": 1792270235
+    },
+    "9c79fbe1f1e8cc4de8ac68d266e33e8dd9e6355ac5e126eafba276f0d871cfe1": {
+      "title": "UNIVERSITY CLUB",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883847214/casaca-fp/883847217",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 44.97,
+      "reference_price": 149.9,
+      "discount": 70,
+      "first_seen": 1792270235,
+      "last_seen": 1792270235,
+      "last_notified": 1792270235
+    },
+    "06f18c99f0c767fc961bcd03d16d2c63cdb0e0a213f070c2fdc94f76247c7b1f": {
+      "title": "BASEMENT",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/80079913/abrigo-mujer-basement/80079922",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 47.97,
+      "reference_price": 159.9,
+      "discount": 70,
+      "first_seen": 1792270235,
+      "last_seen": 1792270235,
+      "last_notified": 1792270235
     }
   }
 }
