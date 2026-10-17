@@ -1894,7 +1894,7 @@
       "reference_price": 129.9,
       "discount": 72,
       "first_seen": 1785515185,
-      "last_seen": 1792078898,
+      "last_seen": 1792210571,
       "last_notified": 1785515185
     },
     "6a43d84b1ccd2ecf2df153772f13d1ca21da4d0bf392b5c86e6700a915754220": {
@@ -2926,7 +2926,7 @@
       "reference_price": 99.9,
       "discount": 70,
       "first_seen": 1792145447,
-      "last_seen": 1792145447,
+      "last_seen": 1792210571,
       "last_notified": 1792145447
     },
     "2d3de4149c76128a9a0c9fce7f1e42d0b7eb649110693c2149a14e9d3d9b9a2d": {
@@ -3190,7 +3190,7 @@
       "reference_price": 159.9,
       "discount": 70,
       "first_seen": 1792162680,
-      "last_seen": 1792162680,
+      "last_seen": 1792210571,
       "last_notified": 1792162680
     },
     "8c100d6c50cc181b5058c8da52c8df4d5ad15e0de61cb03d87a7b8030e3fadb4": {
@@ -3322,7 +3322,7 @@
       "reference_price": 169.9,
       "discount": 70,
       "first_seen": 1792176418,
-      "last_seen": 1792176418,
+      "last_seen": 1792210571,
       "last_notified": 1792176418
     },
     "aab62873500ccb13c8dbca0f94470c0f02bc510c0adf290c674dde1fd6f20176": {
@@ -3358,7 +3358,7 @@
       "reference_price": 89.9,
       "discount": 70,
       "first_seen": 1792187265,
-      "last_seen": 1792187265,
+      "last_seen": 1792210571,
       "last_notified": 1792187265
     },
     "2f5016a970a3420d195347f323adc60d7f7083d39390b80e1d6456dbd845273d": {
@@ -3370,7 +3370,7 @@
       "reference_price": 99.9,
       "discount": 70,
       "first_seen": 1792187265,
-      "last_seen": 1792195139,
+      "last_seen": 1792210571,
       "last_notified": 1792187265
     },
     "095c60ef3c976ad6cf4749ba78ce1e95857523f89e37c78ffeb19e9cf8178c76": {
@@ -3540,6 +3540,102 @@
       "first_seen": 1792195139,
       "last_seen": 1792195139,
       "last_notified": 1792195139
+    },
+    "147b00df75c8d46b15e3881d1658180a10f9e6ba03d31ad4b920f0a6d0c3f43b": {
+      "title": "UNIVERSITY CLUB",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883347522/polera-algodon-mujer-university-club/883347535",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 23.97,
+      "reference_price": 79.9,
+      "discount": 70,
+      "first_seen": 1792210571,
+      "last_seen": 1792210571,
+      "last_notified": 1792210571
+    },
+    "756d2f490976d63ebdfcd70d796c7885440ae132ef74bdbbc1c3d05de6db2193": {
+      "title": "BASEMENT",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883857359/sweater-ml-f3chb313jl/883857367",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 23.97,
+      "reference_price": 79.9,
+      "discount": 70,
+      "first_seen": 1792210571,
+      "last_seen": 1792210571,
+      "last_notified": 1792210571
+    },
+    "ddf249d5932e509837ca989040dd274534dd1f40a52682cc8cd7b8bf9f3e9cf9": {
+      "title": "BASEMENT",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/882444192/chompa-manga-larga-mujer-basement/882444207",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 26.97,
+      "reference_price": 89.9,
+      "discount": 70,
+      "first_seen": 1792210571,
+      "last_seen": 1792210571,
+      "last_notified": 1792210571
+    },
+    "3bc6e8305e6b6d9c58f35dfd97451813529d6549aa9d750a9d02eb1dc9363562": {
+      "title": "NEWPORT",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883849569/chaleco-quilt-ttv/883849583",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 35.97,
+      "reference_price": 119.9,
+      "discount": 70,
+      "first_seen": 1792210571,
+      "last_seen": 1792210571,
+      "last_notified": 1792210571
+    },
+    "377d84395928bdf99b22aea5f5f833ba4f77fd899851735407f0f66ff2be0686": {
+      "title": "UNIVERSITY CLUB",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883132782/casaca-efecto-cuero-mujer-university-club/883132785",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 38.97,
+      "reference_price": 129.9,
+      "discount": 70,
+      "first_seen": 1792210571,
+      "last_seen": 1792210571,
+      "last_notified": 1792210571
+    },
+    "1222a5d40519d02b80c5382cfff93dcb9f6ef9a9ff0e877d8d6aa375e0193582": {
+      "title": "DIADORA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883863713/cortaviento-dep-cv-m-flech/883863717",
+      "source": "Falabella - Deportes",
+      "seller": "Falabella",
+      "current_price": 44.97,
+      "reference_price": 149.9,
+      "discount": 70,
+      "first_seen": 1792210571,
+      "last_seen": 1792210571,
+      "last_notified": 1792210571
+    },
+    "c232c86880e99cd65a576e820c1c05004bab1301d17ea5239329a8029d779be9": {
+      "title": "UNIVERSITY CLUB",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883847214/casaca-fp/883847238",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 44.97,
+      "reference_price": 149.9,
+      "discount": 70,
+      "first_seen": 1792210571,
+      "last_seen": 1792210571,
+      "last_notified": 1792210571
+    },
+    "3ff5944054d2215dfe962d02f3cb7f2fc1bec8c36c6e4594158f0d103a094db8": {
+      "title": "SYBILLA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883922021/chaqueta-ff4cf4cas8/883933926",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 50.97,
+      "reference_price": 169.9,
+      "discount": 70,
+      "first_seen": 1792210571,
+      "last_seen": 1792210571,
+      "last_notified": 1792210571
     }
   }
 }
