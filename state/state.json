@@ -1894,7 +1894,7 @@
       "reference_price": 129.9,
       "discount": 72,
       "first_seen": 1785515185,
-      "last_seen": 1792302503,
+      "last_seen": 1792331913,
       "last_notified": 1785515185
     },
     "6a43d84b1ccd2ecf2df153772f13d1ca21da4d0bf392b5c86e6700a915754220": {
@@ -3106,7 +3106,7 @@
       "reference_price": 99.9,
       "discount": 70,
       "first_seen": 1792162680,
-      "last_seen": 1792270235,
+      "last_seen": 1792331913,
       "last_notified": 1792162680
     },
     "dd9b906c0cfdc480f0c54eec3a220c192e49dbaaa0d59b2dea0a3476a2a3d846": {
@@ -3190,7 +3190,7 @@
       "reference_price": 159.9,
       "discount": 70,
       "first_seen": 1792162680,
-      "last_seen": 1792226613,
+      "last_seen": 1792331913,
       "last_notified": 1792162680
     },
     "8c100d6c50cc181b5058c8da52c8df4d5ad15e0de61cb03d87a7b8030e3fadb4": {
@@ -3886,7 +3886,7 @@
       "reference_price": 169.9,
       "discount": 70,
       "first_seen": 1792252295,
-      "last_seen": 1792302503,
+      "last_seen": 1792331913,
       "last_notified": 1792252295
     },
     "83ea51da1948e100a03867168ba1b54c3c612e6c0c5493456554592eaef474c8": {
@@ -3994,7 +3994,7 @@
       "reference_price": 149.9,
       "discount": 70,
       "first_seen": 1792270235,
-      "last_seen": 1792302503,
+      "last_seen": 1792331913,
       "last_notified": 1792270235
     },
     "9c79fbe1f1e8cc4de8ac68d266e33e8dd9e6355ac5e126eafba276f0d871cfe1": {
@@ -4210,7 +4210,7 @@
       "reference_price": 89.9,
       "discount": 70,
       "first_seen": 1792317479,
-      "last_seen": 1792317479,
+      "last_seen": 1792331913,
       "last_notified": 1792317479
     },
     "478b35fd04b7cfbef686ca10e25f130143f4e71093d2f4084e9bdd89110552f4": {
@@ -4236,6 +4236,126 @@
       "first_seen": 1792317479,
       "last_seen": 1792317479,
       "last_notified": 1792317479
+    },
+    "5b318c0e3d42bb8a30fcf4cfe3d08e62428997e90dbc66ddaad87ea43df7e75c": {
+      "title": "DIADORA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883634182/polera-deportiva-mujer-diadora/883634193",
+      "source": "Falabella - Deportes",
+      "seller": "Falabella",
+      "current_price": 23.97,
+      "reference_price": 79.9,
+      "discount": 70,
+      "first_seen": 1792331913,
+      "last_seen": 1792331913,
+      "last_notified": 1792331913
+    },
+    "d60f5788b0e52c296973e6966fe3db5ecc2d6fec8ea596c050909980f760dc88": {
+      "title": "BASEMENT",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/882075989/chompa-manga-larga-mujer-basement/883669811",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 26.97,
+      "reference_price": 89.9,
+      "discount": 70,
+      "first_seen": 1792331913,
+      "last_seen": 1792331913,
+      "last_notified": 1792331913
+    },
+    "5d886375b2e691bea1b889271068d5c96e5dd5cd743d0e89e45c1c5292409f04": {
+      "title": "BASEMENT",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/882444192/chompa-manga-larga-mujer-basement/883843429",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 26.97,
+      "reference_price": 89.9,
+      "discount": 70,
+      "first_seen": 1792331913,
+      "last_seen": 1792331913,
+      "last_notified": 1792331913
+    },
+    "f480470e07f28375d0fae5ae0e72cf3f62aba58138da31312456004b8b30c8b1": {
+      "title": "DIADORA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883611543/casaca-cortaviento-deportivo-mujer-diadora/883611546",
+      "source": "Falabella - Deportes",
+      "seller": "Falabella",
+      "current_price": 38.97,
+      "reference_price": 129.9,
+      "discount": 70,
+      "first_seen": 1792331913,
+      "last_seen": 1792331913,
+      "last_notified": 1792331913
+    },
+    "d827b6c77b19e600d869b8c5d84861911512c5d3d66c956e89677b09b7b322a5": {
+      "title": "STEFANO COCCI",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883848445/parka-quilt-ttv/883848452",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 38.97,
+      "reference_price": 129.9,
+      "discount": 70,
+      "first_seen": 1792331913,
+      "last_seen": 1792331913,
+      "last_notified": 1792331913
+    },
+    "e698287c2c7a7ecf8c07e33737e1440b7dadf571d7ff9993050a4a49a6ab7318": {
+      "title": "DIADORA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883690506/Casaca-Deportiva-Mujer-Diadora/883690510",
+      "source": "Falabella - Deportes",
+      "seller": "Falabella",
+      "current_price": 44.97,
+      "reference_price": 149.9,
+      "discount": 70,
+      "first_seen": 1792331913,
+      "last_seen": 1792331913,
+      "last_notified": 1792331913
+    },
+    "8e6071df8e8ba1ee5b960ee3dc2c728d8e2276406615ed169b095386db93ee66": {
+      "title": "UNIVERSITY CLUB",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883847214/casaca-fp/883847234",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 44.97,
+      "reference_price": 149.9,
+      "discount": 70,
+      "first_seen": 1792331913,
+      "last_seen": 1792331913,
+      "last_notified": 1792331913
+    },
+    "9c51bc6ec5453287801e703bb3b499f2dfa47c41197f7d001f8c2c29c4bdafb6": {
+      "title": "DOO AUSTRALIA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883845964/chaqueta-f4cad446gh/883845965",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 47.97,
+      "reference_price": 159.9,
+      "discount": 70,
+      "first_seen": 1792331913,
+      "last_seen": 1792331913,
+      "last_notified": 1792331913
+    },
+    "20bad0539400fd4f78831c742876485f64f9d8030abadbbec7e0a38faa500124": {
+      "title": "SYBILLA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883922007/casaca-liviana-cuello-funnel/883933654",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 50.97,
+      "reference_price": 169.9,
+      "discount": 70,
+      "first_seen": 1792331913,
+      "last_seen": 1792331913,
+      "last_notified": 1792331913
+    },
+    "c45067823954c4d246923529d007599ad06c1994bf40064d982da5cf96e510a8": {
+      "title": "MOSSIMO",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883846877/casaca-pu-mujer-mossimo/883846883",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 59.97,
+      "reference_price": 199.9,
+      "discount": 70,
+      "first_seen": 1792331913,
+      "last_seen": 1792331913,
+      "last_notified": 1792331913
     }
   }
 }
