@@ -2818,7 +2818,7 @@
       "reference_price": 129.9,
       "discount": 72,
       "first_seen": 1791927353,
-      "last_seen": 1792317479,
+      "last_seen": 1792351940,
       "last_notified": 1791927353
     },
     "760dd98355aaf1fc365e385f5613d78283874478b46390a33724dbe4ec0befd0": {
@@ -3070,7 +3070,7 @@
       "reference_price": 89.9,
       "discount": 70,
       "first_seen": 1792162680,
-      "last_seen": 1792343883,
+      "last_seen": 1792351940,
       "last_notified": 1792162680
     },
     "57b7f38168f7f619325c4f638fc50b0c92abdeb3f256967af965ba451d071c2c": {
@@ -3394,7 +3394,7 @@
       "reference_price": 149.9,
       "discount": 70,
       "first_seen": 1792187265,
-      "last_seen": 1792343883,
+      "last_seen": 1792351940,
       "last_notified": 1792187265
     },
     "b896f089fe11ba10c45e1ad02cd4e443688bd405a61aee9a084bd5e52b4e51a7": {
@@ -3658,7 +3658,7 @@
       "reference_price": 169.9,
       "discount": 70,
       "first_seen": 1792226613,
-      "last_seen": 1792343883,
+      "last_seen": 1792351940,
       "last_notified": 1792226613
     },
     "6959ec54389e61fcc641f9f9b9f49c794855120f2768a14f2222e0aca0bd3e64": {
@@ -4198,7 +4198,7 @@
       "reference_price": 149.9,
       "discount": 70,
       "first_seen": 1792302503,
-      "last_seen": 1792343883,
+      "last_seen": 1792351940,
       "last_notified": 1792302503
     },
     "9f0fd0faf6ba11152729d6e6746f171c69c57b9b1ea13447a31080d1ffd4cb56": {
@@ -4246,7 +4246,7 @@
       "reference_price": 79.9,
       "discount": 70,
       "first_seen": 1792331913,
-      "last_seen": 1792343883,
+      "last_seen": 1792351940,
       "last_notified": 1792331913
     },
     "d60f5788b0e52c296973e6966fe3db5ecc2d6fec8ea596c050909980f760dc88": {
@@ -4366,7 +4366,7 @@
       "reference_price": 89.9,
       "discount": 70,
       "first_seen": 1792343883,
-      "last_seen": 1792343883,
+      "last_seen": 1792351940,
       "last_notified": 1792343883
     },
     "536ff28bd4c4eac707ff5a64c819b4849f19532c3d0b78305f0d843d7504f36d": {
@@ -4402,7 +4402,7 @@
       "reference_price": 129.9,
       "discount": 70,
       "first_seen": 1792343883,
-      "last_seen": 1792343883,
+      "last_seen": 1792351940,
       "last_notified": 1792343883
     },
     "06b56bfa071815463707c1e2a6e29c555788fa795f9054d766238b62b0a9097d": {
@@ -4428,6 +4428,78 @@
       "first_seen": 1792343883,
       "last_seen": 1792343883,
       "last_notified": 1792343883
+    },
+    "320d8bfdb93510f2559ad881c2e3837af56757ced043d429643d14bd3a3c2f5c": {
+      "title": "BASEMENT",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/882444192/chompa-manga-larga-mujer-basement/883843430",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 26.97,
+      "reference_price": 89.9,
+      "discount": 70,
+      "first_seen": 1792351940,
+      "last_seen": 1792351940,
+      "last_notified": 1792351940
+    },
+    "a47a0f2cea5ddcc5f2e0d433cad076387184ceefd8416f82b04cc7f97fbff0ef": {
+      "title": "STEFANO COCCI",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883848042/chaleco-quilt-ttv/883848056",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 29.97,
+      "reference_price": 99.9,
+      "discount": 70,
+      "first_seen": 1792351940,
+      "last_seen": 1792351940,
+      "last_notified": 1792351940
+    },
+    "05ff8dcfd6c635e198637a02c81832c09d0130e56504549df5cd2b90ee9113d6": {
+      "title": "STEFANO COCCI",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883848445/parka-quilt-ttv/883848448",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 38.97,
+      "reference_price": 129.9,
+      "discount": 70,
+      "first_seen": 1792351940,
+      "last_seen": 1792351940,
+      "last_notified": 1792351940
+    },
+    "834822737832ae5e85ce410602ff635ff64a678ef5b7fcbc13d81bf2faf2830f": {
+      "title": "DOO AUSTRALIA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883845964/chaqueta-f4cad446gh/883845970",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 47.97,
+      "reference_price": 159.9,
+      "discount": 70,
+      "first_seen": 1792351940,
+      "last_seen": 1792351940,
+      "last_notified": 1792351940
+    },
+    "0b4ce5ca37e18779c9c4cec0823c9d1ba3e6dcd9c6cf9b2eb5aefa8408329806": {
+      "title": "SYBILLA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883922007/casaca-liviana-cuello-funnel/883922011",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 50.97,
+      "reference_price": 169.9,
+      "discount": 70,
+      "first_seen": 1792351940,
+      "last_seen": 1792351940,
+      "last_notified": 1792351940
+    },
+    "711a7e489bc3e51e8a6d47b8d72f5b64981d2bf75599717dff94fd77efaa858d": {
+      "title": "MOSSIMO",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883846877/casaca-pu-mujer-mossimo/883846878",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 59.97,
+      "reference_price": 199.9,
+      "discount": 70,
+      "first_seen": 1792351940,
+      "last_seen": 1792351940,
+      "last_notified": 1792351940
     }
   }
 }
