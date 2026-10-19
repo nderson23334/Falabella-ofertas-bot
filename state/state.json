@@ -2818,7 +2818,7 @@
       "reference_price": 129.9,
       "discount": 72,
       "first_seen": 1791927353,
-      "last_seen": 1792368630,
+      "last_seen": 1792386121,
       "last_notified": 1791927353
     },
     "760dd98355aaf1fc365e385f5613d78283874478b46390a33724dbe4ec0befd0": {
@@ -3070,7 +3070,7 @@
       "reference_price": 89.9,
       "discount": 70,
       "first_seen": 1792162680,
-      "last_seen": 1792368630,
+      "last_seen": 1792386121,
       "last_notified": 1792162680
     },
     "57b7f38168f7f619325c4f638fc50b0c92abdeb3f256967af965ba451d071c2c": {
@@ -3322,7 +3322,7 @@
       "reference_price": 169.9,
       "discount": 70,
       "first_seen": 1792176418,
-      "last_seen": 1792210571,
+      "last_seen": 1792386121,
       "last_notified": 1792176418
     },
     "aab62873500ccb13c8dbca0f94470c0f02bc510c0adf290c674dde1fd6f20176": {
@@ -4186,7 +4186,7 @@
       "reference_price": 129.9,
       "discount": 70,
       "first_seen": 1792302503,
-      "last_seen": 1792302503,
+      "last_seen": 1792386121,
       "last_notified": 1792302503
     },
     "7f8914147db2b7cb54a316d423d5dc8231bb2ed36fe5783ecd9d293d7c4ff788": {
@@ -4210,7 +4210,7 @@
       "reference_price": 89.9,
       "discount": 70,
       "first_seen": 1792317479,
-      "last_seen": 1792360583,
+      "last_seen": 1792386121,
       "last_notified": 1792317479
     },
     "478b35fd04b7cfbef686ca10e25f130143f4e71093d2f4084e9bdd89110552f4": {
@@ -4330,7 +4330,7 @@
       "reference_price": 159.9,
       "discount": 70,
       "first_seen": 1792331913,
-      "last_seen": 1792368630,
+      "last_seen": 1792386121,
       "last_notified": 1792331913
     },
     "20bad0539400fd4f78831c742876485f64f9d8030abadbbec7e0a38faa500124": {
@@ -4402,7 +4402,7 @@
       "reference_price": 129.9,
       "discount": 70,
       "first_seen": 1792343883,
-      "last_seen": 1792360583,
+      "last_seen": 1792386121,
       "last_notified": 1792343883
     },
     "06b56bfa071815463707c1e2a6e29c555788fa795f9054d766238b62b0a9097d": {
@@ -4438,7 +4438,7 @@
       "reference_price": 89.9,
       "discount": 70,
       "first_seen": 1792351940,
-      "last_seen": 1792360583,
+      "last_seen": 1792386121,
       "last_notified": 1792351940
     },
     "a47a0f2cea5ddcc5f2e0d433cad076387184ceefd8416f82b04cc7f97fbff0ef": {
@@ -4450,7 +4450,7 @@
       "reference_price": 99.9,
       "discount": 70,
       "first_seen": 1792351940,
-      "last_seen": 1792360583,
+      "last_seen": 1792386121,
       "last_notified": 1792351940
     },
     "05ff8dcfd6c635e198637a02c81832c09d0130e56504549df5cd2b90ee9113d6": {
@@ -4498,7 +4498,7 @@
       "reference_price": 199.9,
       "discount": 70,
       "first_seen": 1792351940,
-      "last_seen": 1792360583,
+      "last_seen": 1792386121,
       "last_notified": 1792351940
     },
     "eec286e4d7a77b16e9a6f72db8b465e03f4f01239a6043f51918dc70ce460f78": {
@@ -4584,6 +4584,66 @@
       "first_seen": 1792368630,
       "last_seen": 1792368630,
       "last_notified": 1792368630
+    },
+    "6309d50f19e31804e92d1d49750f0f0744753ed20c5d31aa65fd03f759300f8b": {
+      "title": "DIADORA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883634182/polera-deportiva-mujer-diadora/883634196",
+      "source": "Falabella - Deportes",
+      "seller": "Falabella",
+      "current_price": 23.97,
+      "reference_price": 79.9,
+      "discount": 70,
+      "first_seen": 1792386121,
+      "last_seen": 1792386121,
+      "last_notified": 1792386121
+    },
+    "3f391a920a47f3029faa39b32b29cf5633aa62439ad30c26d2cb2b807235c0eb": {
+      "title": "AMERICAN ABBEY",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883846403/poleron-algodon-csv3plr313/883846404",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 35.97,
+      "reference_price": 119.9,
+      "discount": 70,
+      "first_seen": 1792386121,
+      "last_seen": 1792386121,
+      "last_notified": 1792386121
+    },
+    "6d2c3b9c83ae127fcf72f1b919e435e35c603fc8868289cc4bc04b968fe43951": {
+      "title": "DIADORA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883863713/cortaviento-dep-cv-m-flech/883863719",
+      "source": "Falabella - Deportes",
+      "seller": "Falabella",
+      "current_price": 44.97,
+      "reference_price": 149.9,
+      "discount": 70,
+      "first_seen": 1792386121,
+      "last_seen": 1792386121,
+      "last_notified": 1792386121
+    },
+    "00ce43663295b6727617df6c04b6a6010a07c6d651d00656535cb4e0b5dc0bc2": {
+      "title": "SYBILLA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883922021/chaqueta-ff4cf4cas8/883933918",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 50.97,
+      "reference_price": 169.9,
+      "discount": 70,
+      "first_seen": 1792386121,
+      "last_seen": 1792386121,
+      "last_notified": 1792386121
+    },
+    "71331a37ecffa96e0d71d5a3aefdedd170c6bf056b14c524cf08279a70412da9": {
+      "title": "BASEMENT",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/882847200/Casaca-Casual-Mujer-Basement/882847205",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 68.97,
+      "reference_price": 229.9,
+      "discount": 70,
+      "first_seen": 1792386121,
+      "last_seen": 1792386121,
+      "last_notified": 1792386121
     }
   }
 }
