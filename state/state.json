@@ -2818,7 +2818,7 @@
       "reference_price": 129.9,
       "discount": 72,
       "first_seen": 1791927353,
-      "last_seen": 1792360583,
+      "last_seen": 1792368630,
       "last_notified": 1791927353
     },
     "760dd98355aaf1fc365e385f5613d78283874478b46390a33724dbe4ec0befd0": {
@@ -3070,7 +3070,7 @@
       "reference_price": 89.9,
       "discount": 70,
       "first_seen": 1792162680,
-      "last_seen": 1792360583,
+      "last_seen": 1792368630,
       "last_notified": 1792162680
     },
     "57b7f38168f7f619325c4f638fc50b0c92abdeb3f256967af965ba451d071c2c": {
@@ -3214,7 +3214,7 @@
       "reference_price": 169.9,
       "discount": 70,
       "first_seen": 1792162680,
-      "last_seen": 1792317479,
+      "last_seen": 1792368630,
       "last_notified": 1792162680
     },
     "154541cff80bed3b82d099811b7f14160dc25b9f2e51880792fdd86728dedf60": {
@@ -3658,7 +3658,7 @@
       "reference_price": 169.9,
       "discount": 70,
       "first_seen": 1792226613,
-      "last_seen": 1792360583,
+      "last_seen": 1792368630,
       "last_notified": 1792226613
     },
     "6959ec54389e61fcc641f9f9b9f49c794855120f2768a14f2222e0aca0bd3e64": {
@@ -3994,7 +3994,7 @@
       "reference_price": 149.9,
       "discount": 70,
       "first_seen": 1792270235,
-      "last_seen": 1792331913,
+      "last_seen": 1792368630,
       "last_notified": 1792270235
     },
     "9c79fbe1f1e8cc4de8ac68d266e33e8dd9e6355ac5e126eafba276f0d871cfe1": {
@@ -4282,7 +4282,7 @@
       "reference_price": 129.9,
       "discount": 70,
       "first_seen": 1792331913,
-      "last_seen": 1792331913,
+      "last_seen": 1792368630,
       "last_notified": 1792331913
     },
     "d827b6c77b19e600d869b8c5d84861911512c5d3d66c956e89677b09b7b322a5": {
@@ -4330,7 +4330,7 @@
       "reference_price": 159.9,
       "discount": 70,
       "first_seen": 1792331913,
-      "last_seen": 1792331913,
+      "last_seen": 1792368630,
       "last_notified": 1792331913
     },
     "20bad0539400fd4f78831c742876485f64f9d8030abadbbec7e0a38faa500124": {
@@ -4500,6 +4500,90 @@
       "first_seen": 1792351940,
       "last_seen": 1792360583,
       "last_notified": 1792351940
+    },
+    "eec286e4d7a77b16e9a6f72db8b465e03f4f01239a6043f51918dc70ce460f78": {
+      "title": "DIADORA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883634182/polera-deportiva-mujer-diadora/883634192",
+      "source": "Falabella - Deportes",
+      "seller": "Falabella",
+      "current_price": 23.97,
+      "reference_price": 79.9,
+      "discount": 70,
+      "first_seen": 1792368630,
+      "last_seen": 1792368630,
+      "last_notified": 1792368630
+    },
+    "e0601abed5d45c0a243b6e43684d643fba2cbfcc0a8c91c0e0f0de6764fd366b": {
+      "title": "DIADORA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883774429/polera-deportiva-hombre-diadora/883774437",
+      "source": "Falabella - Deportes",
+      "seller": "Falabella",
+      "current_price": 26.97,
+      "reference_price": 89.9,
+      "discount": 70,
+      "first_seen": 1792368630,
+      "last_seen": 1792368630,
+      "last_notified": 1792368630
+    },
+    "85b2762e75e5a407c88e5544e4bd03e230b21abd43a69a3d2c4aa0eb46b2d36e": {
+      "title": "BASEMENT",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/882444192/chompa-manga-larga-mujer-basement/883843431",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 26.97,
+      "reference_price": 89.9,
+      "discount": 70,
+      "first_seen": 1792368630,
+      "last_seen": 1792368630,
+      "last_notified": 1792368630
+    },
+    "97a5ab6144174250f83f2e03148c4a30f7111b247bd8dccafce9bdc7d9ced295": {
+      "title": "STEFANO COCCI",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883848042/chaleco-quilt-ttv/883848057",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 29.97,
+      "reference_price": 99.9,
+      "discount": 70,
+      "first_seen": 1792368630,
+      "last_seen": 1792368630,
+      "last_notified": 1792368630
+    },
+    "4527c07540853e68693305bab7e094ebcbdf69dccb864e9dd0a896340d3c6e94": {
+      "title": "AMERICAN ABBEY",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883846403/poleron-algodon-csv3plr313/883846406",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 35.97,
+      "reference_price": 119.9,
+      "discount": 70,
+      "first_seen": 1792368630,
+      "last_seen": 1792368630,
+      "last_notified": 1792368630
+    },
+    "90347248224fe654632bf0afe6966575ff54412f0c8377554bb3cbd95edfd7e2": {
+      "title": "STEFANO COCCI",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883848445/parka-quilt-ttv/883848449",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 38.97,
+      "reference_price": 129.9,
+      "discount": 70,
+      "first_seen": 1792368630,
+      "last_seen": 1792368630,
+      "last_notified": 1792368630
+    },
+    "ddbbe33f2124114d15d821db5f8b5d97dcc615810269fd87c569fe69df580576": {
+      "title": "MOSSIMO",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883846877/casaca-pu-mujer-mossimo/883846882",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 59.97,
+      "reference_price": 199.9,
+      "discount": 70,
+      "first_seen": 1792368630,
+      "last_seen": 1792368630,
+      "last_notified": 1792368630
     }
   }
 }
