@@ -4150,7 +4150,7 @@
       "reference_price": 129.9,
       "discount": 70,
       "first_seen": 1792285037,
-      "last_seen": 1793806977,
+      "last_seen": 1793870605,
       "last_notified": 1792285037
     },
     "0e558896284be26dd08ca57a0228dbf4edf1c614149ec16250fa3304426b3da8": {
@@ -4656,6 +4656,18 @@
       "first_seen": 1793843471,
       "last_seen": 1793843471,
       "last_notified": 1793843471
+    },
+    "933ebd43a6a6bd9288104a9abafcebff01c535870e065bd201f9ef40dfd23542": {
+      "title": "DOO AUSTRALIA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883845957/parka-f4pkd461hx/883845958",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 59.9,
+      "reference_price": 199.9,
+      "discount": 70,
+      "first_seen": 1793870605,
+      "last_seen": 1793870605,
+      "last_notified": 1793870605
     }
   }
 }
