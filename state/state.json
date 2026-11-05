@@ -3786,11 +3786,11 @@
       "url": "https://www.falabella.com.pe/falabella-pe/product/883848445/parka-quilt-ttv/883848447",
       "source": "Falabella - Moda Mujer",
       "seller": "Falabella",
-      "current_price": 38.97,
+      "current_price": 38.9,
       "reference_price": 129.9,
       "discount": 70,
       "first_seen": 1792240101,
-      "last_seen": 1792317479,
+      "last_seen": 1793919342,
       "last_notified": 1792240101
     },
     "42c2d62c134575cc7411a9bfbe53911a2be09da9ff5d4efc32cd9d7ab56bc74b": {
@@ -4668,6 +4668,18 @@
       "first_seen": 1793870605,
       "last_seen": 1793870605,
       "last_notified": 1793870605
+    },
+    "92ed440ec1d54ecbc524e5766383d430d47b90a2606eb31a1beb82f596984520": {
+      "title": "DOO AUSTRALIA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883845957/parka-f4pkd461hx/883845959",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 59.9,
+      "reference_price": 199.9,
+      "discount": 70,
+      "first_seen": 1793919342,
+      "last_seen": 1793919342,
+      "last_notified": 1793919342
     }
   }
 }
