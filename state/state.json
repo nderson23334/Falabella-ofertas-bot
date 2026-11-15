@@ -4786,7 +4786,7 @@
       "reference_price": 89.9,
       "discount": 70,
       "first_seen": 1794753760,
-      "last_seen": 1794753760,
+      "last_seen": 1794787049,
       "last_notified": 1794753760
     },
     "87448c1f0f227fb0c6c917d09525108224527d61a55d175fc5d0a194ab9dbca0": {
@@ -4834,8 +4834,20 @@
       "reference_price": 179.9,
       "discount": 70,
       "first_seen": 1794772775,
-      "last_seen": 1794772775,
+      "last_seen": 1794787049,
       "last_notified": 1794772775
+    },
+    "4d34d07835b14413408be908dcafaa186983fb9cdddff4bacb7ca3c09be90f80": {
+      "title": "SYBILLA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883906986/poleron-algodon-cawpls003g/883906988",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 23.97,
+      "reference_price": 79.9,
+      "discount": 70,
+      "first_seen": 1794787049,
+      "last_seen": 1794787049,
+      "last_notified": 1794787049
     }
   }
 }
