@@ -4750,7 +4750,7 @@
       "reference_price": 179.9,
       "discount": 70,
       "first_seen": 1794702194,
-      "last_seen": 1794845642,
+      "last_seen": 1794937506,
       "last_notified": 1794702194
     },
     "df55c8b82cfa042059132510f6c8633d0d9f3ce9f2f49693474969016714089e": {
@@ -4956,6 +4956,54 @@
       "first_seen": 1794903339,
       "last_seen": 1794903339,
       "last_notified": 1794903339
+    },
+    "6d5284d784bf600713075d63f96f07621c7f82ec26cf7c59bf8bf581342248b9": {
+      "title": "DOO AUSTRALIA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883845983/sweater-ml-f3swd305jl/883845989",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 26.97,
+      "reference_price": 89.9,
+      "discount": 70,
+      "first_seen": 1794937506,
+      "last_seen": 1794937506,
+      "last_notified": 1794937506
+    },
+    "8d8f80f0d4050ebc1a4110e13732217ffe7d7a1244e2a2f90f60c5e445f639fd": {
+      "title": "APOLOGY",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883849153/blazers-cybbzy603y/883849161",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 50.97,
+      "reference_price": 169.9,
+      "discount": 70,
+      "first_seen": 1794937506,
+      "last_seen": 1794937506,
+      "last_notified": 1794937506
+    },
+    "66bd25d171dd10e87bbfc9725481e81b18dd3d4bf8d73fe222feb6d0fb2e20c0": {
+      "title": "UNIVERSITY CLUB",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883847033/blazer-lino/883847041",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 53.97,
+      "reference_price": 179.9,
+      "discount": 70,
+      "first_seen": 1794937506,
+      "last_seen": 1794937506,
+      "last_notified": 1794937506
+    },
+    "5631f4fb3bdbca98ea1e2461ddc12f98eb02577abe38e60bae59ef4c0d325b70": {
+      "title": "BASEMENT",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883847793/blazer-lino/883894531",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 59.97,
+      "reference_price": 199.9,
+      "discount": 70,
+      "first_seen": 1794937506,
+      "last_seen": 1794937506,
+      "last_notified": 1794937506
     }
   }
 }
