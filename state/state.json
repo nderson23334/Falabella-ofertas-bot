@@ -4822,7 +4822,7 @@
       "reference_price": 89.9,
       "discount": 70,
       "first_seen": 1794772775,
-      "last_seen": 1794772775,
+      "last_seen": 1794874940,
       "last_notified": 1794772775
     },
     "6d142acb16decbbb7473bec1f71fbc8cb7d0e8ff8b8cf0f80c5de18a4df6914c": {
@@ -4834,7 +4834,7 @@
       "reference_price": 179.9,
       "discount": 70,
       "first_seen": 1794772775,
-      "last_seen": 1794787049,
+      "last_seen": 1794874940,
       "last_notified": 1794772775
     },
     "4d34d07835b14413408be908dcafaa186983fb9cdddff4bacb7ca3c09be90f80": {
@@ -4884,6 +4884,30 @@
       "first_seen": 1794845642,
       "last_seen": 1794845642,
       "last_notified": 1794845642
+    },
+    "7558419a57b6d1c2118b94d56765d911580026f80657294c996e900c2117e561": {
+      "title": "UNIVERSITY CLUB",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883847033/blazer-lino/883847035",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 53.97,
+      "reference_price": 179.9,
+      "discount": 70,
+      "first_seen": 1794874940,
+      "last_seen": 1794874940,
+      "last_notified": 1794874940
+    },
+    "b6e0424031aa240d332263f52bea9d05e7801654dee162f6448e06ba03a55783": {
+      "title": "BASEMENT",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883847793/blazer-lino/883894530",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 59.97,
+      "reference_price": 199.9,
+      "discount": 70,
+      "first_seen": 1794874940,
+      "last_seen": 1794874940,
+      "last_notified": 1794874940
     }
   }
 }
