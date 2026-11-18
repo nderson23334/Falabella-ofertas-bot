@@ -4798,7 +4798,7 @@
       "reference_price": 179.9,
       "discount": 70,
       "first_seen": 1794753760,
-      "last_seen": 1794959998,
+      "last_seen": 1794986091,
       "last_notified": 1794753760
     },
     "8dae2c1fb3b1d3d1807cba58157f872c76ca20092e308669997193ef9b82fd34": {
@@ -4966,7 +4966,7 @@
       "reference_price": 89.9,
       "discount": 70,
       "first_seen": 1794937506,
-      "last_seen": 1794959998,
+      "last_seen": 1794986091,
       "last_notified": 1794937506
     },
     "8d8f80f0d4050ebc1a4110e13732217ffe7d7a1244e2a2f90f60c5e445f639fd": {
@@ -5026,8 +5026,32 @@
       "reference_price": 179.9,
       "discount": 70,
       "first_seen": 1794959998,
-      "last_seen": 1794959998,
+      "last_seen": 1794986091,
       "last_notified": 1794959998
+    },
+    "f222b5f65e4c4fc15cae94accab3789ef1a674133676e9429dc56afba7fd1e1c": {
+      "title": "APOLOGY",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883849153/blazers-cybbzy603y/883849162",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 50.97,
+      "reference_price": 169.9,
+      "discount": 70,
+      "first_seen": 1794986091,
+      "last_seen": 1794986091,
+      "last_notified": 1794986091
+    },
+    "e5a06fc020a386d7606865e1b36883c9e34b4a27ccfd3075c83ee86b7d2c8420": {
+      "title": "BASEMENT",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883847793/blazer-lino/883847797",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 59.97,
+      "reference_price": 199.9,
+      "discount": 70,
+      "first_seen": 1794986091,
+      "last_seen": 1794986091,
+      "last_notified": 1794986091
     }
   }
 }
