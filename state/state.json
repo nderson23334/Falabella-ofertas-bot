@@ -4750,7 +4750,7 @@
       "reference_price": 179.9,
       "discount": 70,
       "first_seen": 1794702194,
-      "last_seen": 1794937506,
+      "last_seen": 1795043449,
       "last_notified": 1794702194
     },
     "df55c8b82cfa042059132510f6c8633d0d9f3ce9f2f49693474969016714089e": {
@@ -5014,7 +5014,7 @@
       "reference_price": 169.9,
       "discount": 70,
       "first_seen": 1794959998,
-      "last_seen": 1794959998,
+      "last_seen": 1795043449,
       "last_notified": 1794959998
     },
     "b7e2b6875e05b4c9c0415abe2477a514f20953728a56e85c51bd1c4d595af588": {
@@ -5122,7 +5122,7 @@
       "reference_price": 179.9,
       "discount": 70,
       "first_seen": 1795019958,
-      "last_seen": 1795019958,
+      "last_seen": 1795043449,
       "last_notified": 1795019958
     },
     "005f184f07699f998ba85a1d56c69ffb9279b64d86d3c2d217a61100a1fd2c34": {
@@ -5136,6 +5136,54 @@
       "first_seen": 1795019958,
       "last_seen": 1795019958,
       "last_notified": 1795019958
+    },
+    "48eec321b0d1dfa73094743406876d98e23ffeb0c982e48bb15b2cba136ca234": {
+      "title": "SYBILLA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/882759456/pantalon-casual-mujer-sybilla/882886085",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 22.9,
+      "reference_price": 79.9,
+      "discount": 71,
+      "first_seen": 1795043449,
+      "last_seen": 1795043449,
+      "last_notified": 1795043449
+    },
+    "86a15d9b8782f262bcdc13d1577d2fb570b6bdba987ccfa405464ea28d78387b": {
+      "title": "DOO AUSTRALIA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883845983/sweater-ml-f3swd305jl/883845992",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 26.97,
+      "reference_price": 89.9,
+      "discount": 70,
+      "first_seen": 1795043449,
+      "last_seen": 1795043449,
+      "last_notified": 1795043449
+    },
+    "b2d06bd423a8040b754252d9d636a4f6992e0e54cfc285b20e7ef0d51b1f120a": {
+      "title": "APOLOGY",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883848989/parka-quilt-ttv/883848997",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 50.97,
+      "reference_price": 169.9,
+      "discount": 70,
+      "first_seen": 1795043449,
+      "last_seen": 1795043449,
+      "last_notified": 1795043449
+    },
+    "1d0fd91d4972850efd51b7855df8f401e325ddc5bf6da61a7d63786ad12ee64e": {
+      "title": "BASEMENT",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883847793/blazer-lino/883894529",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 59.97,
+      "reference_price": 199.9,
+      "discount": 70,
+      "first_seen": 1795043449,
+      "last_seen": 1795043449,
+      "last_notified": 1795043449
     }
   }
 }
