@@ -4798,7 +4798,7 @@
       "reference_price": 179.9,
       "discount": 70,
       "first_seen": 1794753760,
-      "last_seen": 1794753760,
+      "last_seen": 1794959998,
       "last_notified": 1794753760
     },
     "8dae2c1fb3b1d3d1807cba58157f872c76ca20092e308669997193ef9b82fd34": {
@@ -4906,7 +4906,7 @@
       "reference_price": 199.9,
       "discount": 70,
       "first_seen": 1794874940,
-      "last_seen": 1794874940,
+      "last_seen": 1794959998,
       "last_notified": 1794874940
     },
     "f6c5ea95e25026c755620d8a863566af13997c7570daf6a6ad8defba3b2c3f77": {
@@ -4966,7 +4966,7 @@
       "reference_price": 89.9,
       "discount": 70,
       "first_seen": 1794937506,
-      "last_seen": 1794937506,
+      "last_seen": 1794959998,
       "last_notified": 1794937506
     },
     "8d8f80f0d4050ebc1a4110e13732217ffe7d7a1244e2a2f90f60c5e445f639fd": {
@@ -5004,6 +5004,30 @@
       "first_seen": 1794937506,
       "last_seen": 1794937506,
       "last_notified": 1794937506
+    },
+    "f4d83a5634161f00ab08e705b44c67c812b1b1c0cb52b2de8ef7dbe3643d95c6": {
+      "title": "APOLOGY",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883849153/blazers-cybbzy603y/883849160",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 50.97,
+      "reference_price": 169.9,
+      "discount": 70,
+      "first_seen": 1794959998,
+      "last_seen": 1794959998,
+      "last_notified": 1794959998
+    },
+    "b7e2b6875e05b4c9c0415abe2477a514f20953728a56e85c51bd1c4d595af588": {
+      "title": "UNIVERSITY CLUB",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883847033/blazer-lino/883847043",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 53.97,
+      "reference_price": 179.9,
+      "discount": 70,
+      "first_seen": 1794959998,
+      "last_seen": 1794959998,
+      "last_notified": 1794959998
     }
   }
 }
