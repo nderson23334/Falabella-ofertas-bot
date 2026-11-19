@@ -4738,7 +4738,7 @@
       "reference_price": 179.9,
       "discount": 70,
       "first_seen": 1794688833,
-      "last_seen": 1794688833,
+      "last_seen": 1795062030,
       "last_notified": 1794688833
     },
     "449cad80613fb63dbf1e3d4cf7e11c6f550322d771ae80d61405178e12fc4e08": {
@@ -4918,7 +4918,7 @@
       "reference_price": 89.9,
       "discount": 70,
       "first_seen": 1794903339,
-      "last_seen": 1794903339,
+      "last_seen": 1795062030,
       "last_notified": 1794903339
     },
     "2ded59aa73b9d0318744281fe45e1d1089cbf6db905ca72d5c4e6241347b31e9": {
@@ -4954,7 +4954,7 @@
       "reference_price": 199.9,
       "discount": 70,
       "first_seen": 1794903339,
-      "last_seen": 1794903339,
+      "last_seen": 1795062030,
       "last_notified": 1794903339
     },
     "6d5284d784bf600713075d63f96f07621c7f82ec26cf7c59bf8bf581342248b9": {
@@ -5014,7 +5014,7 @@
       "reference_price": 169.9,
       "discount": 70,
       "first_seen": 1794959998,
-      "last_seen": 1795043449,
+      "last_seen": 1795062030,
       "last_notified": 1794959998
     },
     "b7e2b6875e05b4c9c0415abe2477a514f20953728a56e85c51bd1c4d595af588": {
@@ -5098,7 +5098,7 @@
       "reference_price": 169.9,
       "discount": 70,
       "first_seen": 1795019958,
-      "last_seen": 1795019958,
+      "last_seen": 1795062030,
       "last_notified": 1795019958
     },
     "11b5d9a96170183f2d6bce31df9a765f319c6b31c0a2cb4250646f094c8e5edc": {
@@ -5122,7 +5122,7 @@
       "reference_price": 179.9,
       "discount": 70,
       "first_seen": 1795019958,
-      "last_seen": 1795043449,
+      "last_seen": 1795062030,
       "last_notified": 1795019958
     },
     "005f184f07699f998ba85a1d56c69ffb9279b64d86d3c2d217a61100a1fd2c34": {
@@ -5184,6 +5184,18 @@
       "first_seen": 1795043449,
       "last_seen": 1795043449,
       "last_notified": 1795043449
+    },
+    "0d5f41f3ac8d81655c05f19d9e770d96860f2044162892516ab73c7328182c24": {
+      "title": "SYBILLA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/882759456/pantalon-casual-mujer-sybilla/882886090",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 22.9,
+      "reference_price": 79.9,
+      "discount": 71,
+      "first_seen": 1795062030,
+      "last_seen": 1795062030,
+      "last_notified": 1795062030
     }
   }
 }
