@@ -157,30 +157,6 @@
       "last_seen": 1785614659,
       "last_notified": 1784826877
     },
-    "1d79782a951d95962cecad7db4a8f5fbfc84868747bcbf11a8d635bfe7c48509": {
-      "title": "STEFANO COCCI",
-      "url": "https://www.falabella.com.pe/falabella-pe/product/883678571/casaca-mujer-stefano-cocci/883678588",
-      "source": "Falabella - Moda Mujer",
-      "seller": "FALABELLA",
-      "current_price": 49.9,
-      "reference_price": 169.9,
-      "discount": 71,
-      "first_seen": 1784826877,
-      "last_seen": 1784826877,
-      "last_notified": 1784826877
-    },
-    "1b9ff743deff921187667a757875241e68fcbe90b19548695471ad9f2f42d7b7": {
-      "title": "NEWPORT",
-      "url": "https://www.falabella.com.pe/falabella-pe/product/883676962/casaca-mujer-newport/883676970",
-      "source": "Falabella - Moda Mujer",
-      "seller": "FALABELLA",
-      "current_price": 49.9,
-      "reference_price": 169.9,
-      "discount": 71,
-      "first_seen": 1784826877,
-      "last_seen": 1784826877,
-      "last_notified": 1784826877
-    },
     "eef1b060ebac8cb6e45502116f7633327b7ba5119b739f860accced40c44e5a9": {
       "title": "DIADORA",
       "url": "https://www.falabella.com.pe/falabella-pe/product/883735802/casaca-deportiva-hombre-diadora/883735812",
@@ -191,18 +167,6 @@
       "discount": 70,
       "first_seen": 1784826877,
       "last_seen": 1785023319,
-      "last_notified": 1784826877
-    },
-    "9ac8122e2a4b58b0890372c41673fe9e2d09edc6889209cb82ccbb04e5915d19": {
-      "title": "AMERICAN ABBEY",
-      "url": "https://www.falabella.com.pe/falabella-pe/product/883674982/parka-moda-bomber-burgundy-sas-s/883674987",
-      "source": "Falabella - Moda Mujer",
-      "seller": "FALABELLA",
-      "current_price": 59.9,
-      "reference_price": 199.9,
-      "discount": 70,
-      "first_seen": 1784826877,
-      "last_seen": 1784826877,
       "last_notified": 1784826877
     },
     "502869af162175602aef8d3402328f6697f1c0d7d818d3deaca9b9e47d6f0a0a": {
@@ -3942,12 +3906,12 @@
       "url": "https://www.falabella.com.pe/falabella-pe/product/883852774/chaqueta-cybccs904k/883852782",
       "source": "Falabella - Moda Mujer",
       "seller": "Falabella",
-      "current_price": 53.97,
+      "current_price": 49.9,
       "reference_price": 179.9,
-      "discount": 70,
+      "discount": 72,
       "first_seen": 1794702194,
-      "last_seen": 1795043449,
-      "last_notified": 1794702194
+      "last_seen": 1795201958,
+      "last_notified": 1795201958
     },
     "df55c8b82cfa042059132510f6c8633d0d9f3ce9f2f49693474969016714089e": {
       "title": "SYBILLA",
@@ -4014,12 +3978,12 @@
       "url": "https://www.falabella.com.pe/falabella-pe/product/883845983/sweater-ml-f3swd305jl/883845991",
       "source": "Falabella - Moda Mujer",
       "seller": "Falabella",
-      "current_price": 26.97,
+      "current_price": 19.9,
       "reference_price": 89.9,
-      "discount": 70,
+      "discount": 78,
       "first_seen": 1794772775,
-      "last_seen": 1794874940,
-      "last_notified": 1794772775
+      "last_seen": 1795201958,
+      "last_notified": 1795201958
     },
     "6d142acb16decbbb7473bec1f71fbc8cb7d0e8ff8b8cf0f80c5de18a4df6914c": {
       "title": "SYBILLA",
@@ -4186,7 +4150,7 @@
       "reference_price": 179.9,
       "discount": 70,
       "first_seen": 1794937506,
-      "last_seen": 1794937506,
+      "last_seen": 1795201958,
       "last_notified": 1794937506
     },
     "5631f4fb3bdbca98ea1e2461ddc12f98eb02577abe38e60bae59ef4c0d325b70": {
@@ -4282,7 +4246,7 @@
       "reference_price": 169.9,
       "discount": 70,
       "first_seen": 1795019958,
-      "last_seen": 1795095673,
+      "last_seen": 1795201958,
       "last_notified": 1795019958
     },
     "5fa87a8f611c006db61781058536ed1fb0d5ff2d669201a5d326ede2fc20e110": {
@@ -4486,7 +4450,7 @@
       "reference_price": 169.9,
       "discount": 71,
       "first_seen": 1795143797,
-      "last_seen": 1795143797,
+      "last_seen": 1795201958,
       "last_notified": 1795143797
     },
     "60d74b6b0632e86128d6df138291e6cc4060c807b0b0b95748840f3830c605cd": {
@@ -4512,6 +4476,18 @@
       "first_seen": 1795173913,
       "last_seen": 1795173913,
       "last_notified": 1795173913
+    },
+    "1dda3efb532adba5941917db38f46a8b65c828885d4c045af5ebe26a57000664": {
+      "title": "BASEMENT",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883847793/blazer-lino/883847805",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 59.97,
+      "reference_price": 199.9,
+      "discount": 70,
+      "first_seen": 1795201958,
+      "last_seen": 1795201958,
+      "last_notified": 1795201958
     }
   }
 }
