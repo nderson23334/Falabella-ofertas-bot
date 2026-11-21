@@ -37,18 +37,6 @@
       "last_seen": 1785515185,
       "last_notified": 1784790215
     },
-    "ced61f48da54322123f791104623780b85ee29c384b62fe4d4733c51f56b6188": {
-      "title": "NEWPORT",
-      "url": "https://www.falabella.com.pe/falabella-pe/product/883676078/casaca-mujer-newport/883676082",
-      "source": "Falabella - Moda Mujer",
-      "seller": "FALABELLA",
-      "current_price": 59.9,
-      "reference_price": 199.9,
-      "discount": 70,
-      "first_seen": 1784795412,
-      "last_seen": 1784916553,
-      "last_notified": null
-    },
     "ded8438f71e75523f00d8dd77bade6b3325d9fec2c14291988dc8180b6f03823": {
       "title": "DIADORA",
       "url": "https://www.falabella.com.pe/falabella-pe/product/883642631/zapatillas-urbanas-mujer-diadora/883642632",
@@ -121,18 +109,6 @@
       "last_seen": 1785700967,
       "last_notified": 1784826877
     },
-    "2f43c05bdd29b4eea3a0cbaf70d3fcecdf1710f4d67b1231b51ba44f81e12f96": {
-      "title": "DOO AUSTRALIA",
-      "url": "https://www.falabella.com.pe/falabella-pe/product/883675173/chiporro-flecha-flores-ivory-m/883675178",
-      "source": "Falabella - Moda Mujer",
-      "seller": "FALABELLA",
-      "current_price": 34.9,
-      "reference_price": 129.9,
-      "discount": 73,
-      "first_seen": 1784837991,
-      "last_seen": 1784916553,
-      "last_notified": 1784837991
-    },
     "fd0bda20eef8442e7cf1cef24bd056748bd7c9471bf01909a91f2565cd0e85ef": {
       "title": "NEWPORT",
       "url": "https://www.falabella.com.pe/falabella-pe/product/883676078/casaca-mujer-newport/883676089",
@@ -155,18 +131,6 @@
       "discount": 72,
       "first_seen": 1784850329,
       "last_seen": 1786773596,
-      "last_notified": 1784850329
-    },
-    "39051914332784240f9bdc85627d4d26db577cd2809eacbcd90ba0185b4d867b": {
-      "title": "DENIMLAB",
-      "url": "https://www.falabella.com.pe/falabella-pe/product/883730149/casaca-mujer-denimlab/883730161",
-      "source": "Falabella - Moda Mujer",
-      "seller": "FALABELLA",
-      "current_price": 49.9,
-      "reference_price": 179.9,
-      "discount": 72,
-      "first_seen": 1784850329,
-      "last_seen": 1784916553,
       "last_notified": 1784850329
     },
     "954e220a83254897e764e41fa687d9be4e1472c8d64a9cbfcc827dd9285b3a7e": {
@@ -3838,7 +3802,7 @@
       "reference_price": 179.9,
       "discount": 72,
       "first_seen": 1794772775,
-      "last_seen": 1795277884,
+      "last_seen": 1795297621,
       "last_notified": 1795277884
     },
     "4d34d07835b14413408be908dcafaa186983fb9cdddff4bacb7ca3c09be90f80": {
@@ -3910,7 +3874,7 @@
       "reference_price": 199.9,
       "discount": 70,
       "first_seen": 1794874940,
-      "last_seen": 1795277884,
+      "last_seen": 1795297621,
       "last_notified": 1794874940
     },
     "f6c5ea95e25026c755620d8a863566af13997c7570daf6a6ad8defba3b2c3f77": {
@@ -4222,7 +4186,7 @@
       "reference_price": 169.9,
       "discount": 71,
       "first_seen": 1795095673,
-      "last_seen": 1795095673,
+      "last_seen": 1795297621,
       "last_notified": 1795095673
     },
     "1bd139d550bd648f729e7bd587703173d36b3fae8abba2f4a686bdc4cef77a90": {
@@ -4306,7 +4270,7 @@
       "reference_price": 169.9,
       "discount": 70,
       "first_seen": 1795173913,
-      "last_seen": 1795173913,
+      "last_seen": 1795297621,
       "last_notified": 1795173913
     },
     "f0feafe7ad905bc97b040da18272b9392004054c33e6811d0042f3aaa8cc7274": {
@@ -4356,6 +4320,18 @@
       "first_seen": 1795277884,
       "last_seen": 1795277884,
       "last_notified": 1795277884
+    },
+    "6c0bb5449d1bebd04f2836d388e46f42241bfa86a4ce8c731b4430c4ed6df9e5": {
+      "title": "UNIVERSITY CLUB",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883847033/blazer-lino/883847044",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 53.97,
+      "reference_price": 179.9,
+      "discount": 70,
+      "first_seen": 1795297621,
+      "last_seen": 1795297621,
+      "last_notified": 1795297621
     }
   }
 }
