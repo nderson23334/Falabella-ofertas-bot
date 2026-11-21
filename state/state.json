@@ -61,18 +61,6 @@
       "last_seen": 1787140809,
       "last_notified": null
     },
-    "48f2df49d865abff3795ae32bb6116f56670e4ea367bf4a138054db7728b78b1": {
-      "title": "MOSSIMO",
-      "url": "https://www.falabella.com.pe/falabella-pe/product/881929728/leggings-deportivas-training-mujer-mossimo/881929732",
-      "source": "Falabella - Deportes",
-      "seller": "FALABELLA",
-      "current_price": 24.9,
-      "reference_price": 89.9,
-      "discount": 72,
-      "first_seen": 1784796271,
-      "last_seen": 1784898533,
-      "last_notified": 1784796271
-    },
     "a4c93a4157a482280f524956ce99fb0b1c0f9e2bd330e46320ae0eef2c2c6b35": {
       "title": "UNIVERSITY CLUB",
       "url": "https://www.falabella.com.pe/falabella-pe/product/883674731/casaca-plumas-dk-fungi-s/883686804",
@@ -205,18 +193,6 @@
       "last_seen": 1785066997,
       "last_notified": 1784898533
     },
-    "a96ef6e0aca7e2dae3122ad3f4264037b0ccfa3506aa33f1df49bef7a3d006a1": {
-      "title": "DOO AUSTRALIA",
-      "url": "https://www.falabella.com.pe/falabella-pe/product/883675173/chiporro-flecha-flores-ivory-m/883675180",
-      "source": "Falabella - Moda Mujer",
-      "seller": "FALABELLA",
-      "current_price": 34.9,
-      "reference_price": 129.9,
-      "discount": 73,
-      "first_seen": 1784898533,
-      "last_seen": 1784898533,
-      "last_notified": 1784898533
-    },
     "c0c3551a8f2894e223b638d5d8ffc9a9885db8202eacf97dd620ff8155ea8ea3": {
       "title": "BASEMENT",
       "url": "https://www.falabella.com.pe/falabella-pe/product/883741101/cardigan-mujer-basement/883741106",
@@ -239,18 +215,6 @@
       "discount": 72,
       "first_seen": 1784898533,
       "last_seen": 1784994645,
-      "last_notified": 1784898533
-    },
-    "f6025775829712e0a7ea2f0d8577ffdb9ae2e13efddad7871b1bd66538566614": {
-      "title": "NEWPORT",
-      "url": "https://www.falabella.com.pe/falabella-pe/product/883676078/casaca-mujer-newport/883676083",
-      "source": "Falabella - Moda Mujer",
-      "seller": "FALABELLA",
-      "current_price": 59.9,
-      "reference_price": 199.9,
-      "discount": 70,
-      "first_seen": 1784898533,
-      "last_seen": 1784898533,
       "last_notified": 1784898533
     },
     "23223f8bdf1ca9cae5a7a9ebb239b9dd2dca68151e18ea509cc2f0a36bb70b12": {
@@ -3862,7 +3826,7 @@
       "reference_price": 89.9,
       "discount": 78,
       "first_seen": 1794772775,
-      "last_seen": 1795201958,
+      "last_seen": 1795277884,
       "last_notified": 1795201958
     },
     "6d142acb16decbbb7473bec1f71fbc8cb7d0e8ff8b8cf0f80c5de18a4df6914c": {
@@ -3870,12 +3834,12 @@
       "url": "https://www.falabella.com.pe/falabella-pe/product/883852774/chaqueta-cybccs904k/883852781",
       "source": "Falabella - Moda Mujer",
       "seller": "Falabella",
-      "current_price": 53.97,
+      "current_price": 49.9,
       "reference_price": 179.9,
-      "discount": 70,
+      "discount": 72,
       "first_seen": 1794772775,
-      "last_seen": 1794874940,
-      "last_notified": 1794772775
+      "last_seen": 1795277884,
+      "last_notified": 1795277884
     },
     "4d34d07835b14413408be908dcafaa186983fb9cdddff4bacb7ca3c09be90f80": {
       "title": "SYBILLA",
@@ -3946,7 +3910,7 @@
       "reference_price": 199.9,
       "discount": 70,
       "first_seen": 1794874940,
-      "last_seen": 1795125103,
+      "last_seen": 1795277884,
       "last_notified": 1794874940
     },
     "f6c5ea95e25026c755620d8a863566af13997c7570daf6a6ad8defba3b2c3f77": {
@@ -4126,7 +4090,7 @@
       "reference_price": 169.9,
       "discount": 70,
       "first_seen": 1795019958,
-      "last_seen": 1795222478,
+      "last_seen": 1795277884,
       "last_notified": 1795019958
     },
     "5fa87a8f611c006db61781058536ed1fb0d5ff2d669201a5d326ede2fc20e110": {
@@ -4294,7 +4258,7 @@
       "reference_price": 169.9,
       "discount": 71,
       "first_seen": 1795125103,
-      "last_seen": 1795173913,
+      "last_seen": 1795277884,
       "last_notified": 1795125103
     },
     "17fc12c370f8980b269081244401abb88ba8c6fae709997180a999071e78a432": {
@@ -4380,6 +4344,18 @@
       "first_seen": 1795222478,
       "last_seen": 1795222478,
       "last_notified": 1795222478
+    },
+    "4915bfefe9ecf372607219f9e26460a6ae9a0f448dc203e1bdcfeb7867e82eb2": {
+      "title": "UNIVERSITY CLUB",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883847033/blazer-lino/883847042",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 53.97,
+      "reference_price": 179.9,
+      "discount": 70,
+      "first_seen": 1795277884,
+      "last_seen": 1795277884,
+      "last_notified": 1795277884
     }
   }
 }
