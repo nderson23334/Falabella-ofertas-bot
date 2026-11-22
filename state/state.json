@@ -205,18 +205,6 @@
       "last_seen": 1785023319,
       "last_notified": 1784932470
     },
-    "87afc5747c75f4755e66f5282460366436cc88775b208a6f14c8f1ea9dece2c8": {
-      "title": "DOO AUSTRALIA",
-      "url": "https://www.falabella.com.pe/falabella-pe/product/883675173/chiporro-flecha-flores-ivory-m/883675174",
-      "source": "Falabella - Moda Mujer",
-      "seller": "FALABELLA",
-      "current_price": 34.9,
-      "reference_price": 129.9,
-      "discount": 73,
-      "first_seen": 1784932470,
-      "last_seen": 1784932470,
-      "last_notified": 1784932470
-    },
     "789ef9d8b95db93374bf29126b2250a41c0d649a13685a2a03d7e8342182e8cf": {
       "title": "UNIVERSITY CLUB",
       "url": "https://www.falabella.com.pe/falabella-pe/product/883674731/casaca-plumas-dk-fungi-s/883674749",
@@ -3762,12 +3750,12 @@
       "url": "https://www.falabella.com.pe/falabella-pe/product/883852774/chaqueta-cybccs904k/883852779",
       "source": "Falabella - Moda Mujer",
       "seller": "Falabella",
-      "current_price": 53.97,
+      "current_price": 49.9,
       "reference_price": 179.9,
-      "discount": 70,
+      "discount": 72,
       "first_seen": 1794753760,
-      "last_seen": 1794986091,
-      "last_notified": 1794753760
+      "last_seen": 1795311763,
+      "last_notified": 1795311763
     },
     "8dae2c1fb3b1d3d1807cba58157f872c76ca20092e308669997193ef9b82fd34": {
       "title": "SYBILLA",
@@ -3850,7 +3838,7 @@
       "reference_price": 179.9,
       "discount": 70,
       "first_seen": 1794845642,
-      "last_seen": 1795173913,
+      "last_seen": 1795311763,
       "last_notified": 1794845642
     },
     "7558419a57b6d1c2118b94d56765d911580026f80657294c996e900c2117e561": {
@@ -4054,7 +4042,7 @@
       "reference_price": 169.9,
       "discount": 70,
       "first_seen": 1795019958,
-      "last_seen": 1795277884,
+      "last_seen": 1795311763,
       "last_notified": 1795019958
     },
     "5fa87a8f611c006db61781058536ed1fb0d5ff2d669201a5d326ede2fc20e110": {
@@ -4186,7 +4174,7 @@
       "reference_price": 169.9,
       "discount": 71,
       "first_seen": 1795095673,
-      "last_seen": 1795297621,
+      "last_seen": 1795311763,
       "last_notified": 1795095673
     },
     "1bd139d550bd648f729e7bd587703173d36b3fae8abba2f4a686bdc4cef77a90": {
@@ -4332,6 +4320,18 @@
       "first_seen": 1795297621,
       "last_seen": 1795297621,
       "last_notified": 1795297621
+    },
+    "267c9b587d8a08ef5d910ff5b02861a28cb90635e59db3084f2ea534d776026e": {
+      "title": "BASEMENT",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883847793/blazer-lino/883894533",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 59.97,
+      "reference_price": 199.9,
+      "discount": 70,
+      "first_seen": 1795311763,
+      "last_seen": 1795311763,
+      "last_notified": 1795311763
     }
   }
 }
