@@ -217,18 +217,6 @@
       "last_seen": 1785455225,
       "last_notified": 1785066997
     },
-    "aa57c96ae917b1b7cc37ee2737a865038b878bbe6a99bfb14ea678bb83bc5559": {
-      "title": "BASEMENT",
-      "url": "https://www.falabella.com.pe/falabella-pe/product/883729069/chompa-mujer-basement/883729073",
-      "source": "Falabella - Moda Mujer",
-      "seller": "FALABELLA",
-      "current_price": 34.9,
-      "reference_price": 129.9,
-      "discount": 73,
-      "first_seen": 1785153771,
-      "last_seen": 1785175381,
-      "last_notified": 1785153771
-    },
     "9d2b7af0e3b204819011fa7cb18cc2b434978f2671993cab7f91360a6478213b": {
       "title": "STARTER",
       "url": "https://www.falabella.com.pe/falabella-pe/product/883547866/zapatillas-urbanas-hombre-starter/883547872",
@@ -4212,6 +4200,18 @@
       "first_seen": 1795479031,
       "last_seen": 1795515151,
       "last_notified": 1795479031
+    },
+    "34540c8be4a042047241c8764d6b507d713f71fd771228d9dcdedfcab10964d7": {
+      "title": "ELLE",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/881854883/jean-straight-tiro-alto-mujer-elle/881952821",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 34.9,
+      "reference_price": 119.9,
+      "discount": 71,
+      "first_seen": 1795553141,
+      "last_seen": 1795553141,
+      "last_notified": 1795553141
     }
   }
 }
