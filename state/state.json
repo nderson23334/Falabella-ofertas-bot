@@ -253,18 +253,6 @@
       "last_seen": 1787801188,
       "last_notified": 1785153771
     },
-    "4aacc690ea254ac3df5931be63d77854a1d91ffa57d05305548ad18636c88e70": {
-      "title": "DIADORA",
-      "url": "https://www.falabella.com.pe/falabella-pe/product/883643576/zapatillas-urbanas-hombre-diadora/883643579",
-      "source": "Falabella - Zapatillas",
-      "seller": "FALABELLA",
-      "current_price": 68.97,
-      "reference_price": 229.9,
-      "discount": 70,
-      "first_seen": 1785175381,
-      "last_seen": 1785225022,
-      "last_notified": 1785175381
-    },
     "df6149165dc4413c402a438f28fc07aa2cce765a64cfc3494ced908844d03a41": {
       "title": "DIADORA",
       "url": "https://www.falabella.com.pe/falabella-pe/product/883642448/zapatillas-urbanas-mujer-diadora/883642449",
@@ -4211,6 +4199,18 @@
       "discount": 71,
       "first_seen": 1795578512,
       "last_seen": 1795578512,
+      "last_notified": null
+    },
+    "d47b02f3a8a59e9816e27bfbd2c5a6b4e2a52e42af872a9b5c485dfc1bbb4f80": {
+      "title": "DIADORA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883197118/bolso-yoga-deportivo-mujer-diadora/883197123",
+      "source": "Falabella - Deportes",
+      "seller": "Falabella",
+      "current_price": 34.9,
+      "reference_price": 129.9,
+      "discount": 73,
+      "first_seen": 1795613924,
+      "last_seen": 1795613924,
       "last_notified": null
     }
   }
