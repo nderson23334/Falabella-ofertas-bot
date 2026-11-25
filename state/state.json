@@ -217,18 +217,6 @@
       "last_seen": 1785455225,
       "last_notified": 1785066997
     },
-    "9d2b7af0e3b204819011fa7cb18cc2b434978f2671993cab7f91360a6478213b": {
-      "title": "STARTER",
-      "url": "https://www.falabella.com.pe/falabella-pe/product/883547866/zapatillas-urbanas-hombre-starter/883547872",
-      "source": "Falabella - Zapatillas",
-      "seller": "FALABELLA",
-      "current_price": 35.97,
-      "reference_price": 129.9,
-      "discount": 72,
-      "first_seen": 1785153771,
-      "last_seen": 1785189279,
-      "last_notified": 1785153771
-    },
     "1db42573f72e9309b030b3f122ae3ea9b775fc64a1e6d8dd04e3afca71ec8647": {
       "title": "STARTER",
       "url": "https://www.falabella.com.pe/falabella-pe/product/883649897/zapatillas-urbanas-hombre-starter/883649900",
@@ -4212,6 +4200,18 @@
       "first_seen": 1795553141,
       "last_seen": 1795553141,
       "last_notified": 1795553141
+    },
+    "f8fd36638876cfed3b878e1081d9cab1ff5829083a19489cecf5db96c0ebcb5f": {
+      "title": "ELLE",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/881854883/jean-straight-tiro-alto-mujer-elle/881952819",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 34.9,
+      "reference_price": 119.9,
+      "discount": 71,
+      "first_seen": 1795578512,
+      "last_seen": 1795578512,
+      "last_notified": null
     }
   }
 }
