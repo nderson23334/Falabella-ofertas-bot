@@ -157,18 +157,6 @@
       "last_seen": 1785398449,
       "last_notified": 1785023319
     },
-    "2e796d2dab2811a234241cd432e827fa45b958286fcdc8804f1a3a817787a0f5": {
-      "title": "UNIVERSITY CLUB",
-      "url": "https://www.falabella.com.pe/falabella-pe/product/883674731/casaca-plumas-dk-fungi-s/883674733",
-      "source": "Falabella - Moda Mujer",
-      "seller": "FALABELLA",
-      "current_price": 69.9,
-      "reference_price": 249.9,
-      "discount": 72,
-      "first_seen": 1785066997,
-      "last_seen": 1785320392,
-      "last_notified": 1785066997
-    },
     "57734c0644cca32b1ec96cd774d2517b8f04c85eeb26cfc7bfc55f6ab670f87d": {
       "title": "STARTER",
       "url": "https://www.falabella.com.pe/falabella-pe/product/883649897/zapatillas-urbanas-hombre-starter/883649902",
@@ -3748,13 +3736,13 @@
     "f222b5f65e4c4fc15cae94accab3789ef1a674133676e9429dc56afba7fd1e1c": {
       "title": "APOLOGY",
       "url": "https://www.falabella.com.pe/falabella-pe/product/883849153/blazers-cybbzy603y/883849162",
-      "source": "Falabella - Moda Mujer",
+      "source": "Falabella - Ofertas generales",
       "seller": "Falabella",
       "current_price": 50.97,
       "reference_price": 169.9,
       "discount": 70,
       "first_seen": 1794986091,
-      "last_seen": 1794986091,
+      "last_seen": 1795705368,
       "last_notified": 1794986091
     },
     "e5a06fc020a386d7606865e1b36883c9e34b4a27ccfd3075c83ee86b7d2c8420": {
@@ -3838,7 +3826,7 @@
       "reference_price": 179.9,
       "discount": 70,
       "first_seen": 1795019958,
-      "last_seen": 1795062030,
+      "last_seen": 1795705368,
       "last_notified": 1795019958
     },
     "005f184f07699f998ba85a1d56c69ffb9279b64d86d3c2d217a61100a1fd2c34": {
@@ -4018,7 +4006,7 @@
       "reference_price": 169.9,
       "discount": 70,
       "first_seen": 1795173913,
-      "last_seen": 1795297621,
+      "last_seen": 1795705368,
       "last_notified": 1795173913
     },
     "f0feafe7ad905bc97b040da18272b9392004054c33e6811d0042f3aaa8cc7274": {
@@ -4187,6 +4175,54 @@
       "discount": 73,
       "first_seen": 1795613924,
       "last_seen": 1795613924,
+      "last_notified": null
+    },
+    "cca0edecea56ee4a3a44a762374719e753af89cef1221a8255767ce4eaba08cf": {
+      "title": "MOSSIMO",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883852492/blazer-sm-oficinil/883852504",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 38.97,
+      "reference_price": 129.9,
+      "discount": 70,
+      "first_seen": 1795705368,
+      "last_seen": 1795705368,
+      "last_notified": null
+    },
+    "d819524e72d92065960723aa548b7b09415363387c93b0a4631b2e12ed2da0a3": {
+      "title": "SYBILLA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883841102/blazer-cuello-cruzado/883841105",
+      "source": "Falabella - Ofertas generales",
+      "seller": "Falabella",
+      "current_price": 50.97,
+      "reference_price": 169.9,
+      "discount": 70,
+      "first_seen": 1795705368,
+      "last_seen": 1795705368,
+      "last_notified": null
+    },
+    "70b9759ea4f980bd5f5c492309ef6f0fbbae84cd01737c92b4734dba2622e628": {
+      "title": "SYBILLA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883906853/chaqueta-cn5ccs529k/883906854",
+      "source": "Falabella - Ofertas generales",
+      "seller": "Falabella",
+      "current_price": 50.97,
+      "reference_price": 169.9,
+      "discount": 70,
+      "first_seen": 1795705368,
+      "last_seen": 1795705368,
+      "last_notified": null
+    },
+    "316564c9b995303e8bd5dfe02577c5637fdb91476ff8e8c2ca1386c9568ef277": {
+      "title": "BASEMENT",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883847793/blazer-lino/883847804",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 59.97,
+      "reference_price": 199.9,
+      "discount": 70,
+      "first_seen": 1795705368,
+      "last_seen": 1795705368,
       "last_notified": null
     }
   }
