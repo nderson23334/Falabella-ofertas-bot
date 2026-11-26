@@ -3676,13 +3676,13 @@
     "8d8f80f0d4050ebc1a4110e13732217ffe7d7a1244e2a2f90f60c5e445f639fd": {
       "title": "APOLOGY",
       "url": "https://www.falabella.com.pe/falabella-pe/product/883849153/blazers-cybbzy603y/883849161",
-      "source": "Falabella - Moda Mujer",
+      "source": "Falabella - Ofertas generales",
       "seller": "Falabella",
       "current_price": 50.97,
       "reference_price": 169.9,
       "discount": 70,
       "first_seen": 1794937506,
-      "last_seen": 1795143797,
+      "last_seen": 1795736845,
       "last_notified": 1794937506
     },
     "66bd25d171dd10e87bbfc9725481e81b18dd3d4bf8d73fe222feb6d0fb2e20c0": {
@@ -4126,7 +4126,7 @@
       "reference_price": 179.9,
       "discount": 70,
       "first_seen": 1795386425,
-      "last_seen": 1795402773,
+      "last_seen": 1795736845,
       "last_notified": 1795386425
     },
     "533971bc0c2caaebb7b635f9d3c94fe85c1c2cadbf78af61330013f314a207ef": {
@@ -4174,7 +4174,7 @@
       "reference_price": 129.9,
       "discount": 73,
       "first_seen": 1795613924,
-      "last_seen": 1795613924,
+      "last_seen": 1795736845,
       "last_notified": null
     },
     "cca0edecea56ee4a3a44a762374719e753af89cef1221a8255767ce4eaba08cf": {
@@ -4223,6 +4223,42 @@
       "discount": 70,
       "first_seen": 1795705368,
       "last_seen": 1795705368,
+      "last_notified": null
+    },
+    "b7333832b739fcfa80b5b71d25c43c84afbe9252d95b9ed0c2f683d15737fb2e": {
+      "title": "SYBILLA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883906853/chaqueta-cn5ccs529k/883906856",
+      "source": "Falabella - Ofertas generales",
+      "seller": "Falabella",
+      "current_price": 50.97,
+      "reference_price": 169.9,
+      "discount": 70,
+      "first_seen": 1795736845,
+      "last_seen": 1795736845,
+      "last_notified": null
+    },
+    "42d4f24bed845ab419f621bd276800eb6cbcf05df3f49e8bd13aef9dbf924645": {
+      "title": "SYBILLA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883841102/blazer-cuello-cruzado/883841104",
+      "source": "Falabella - Ofertas generales",
+      "seller": "Falabella",
+      "current_price": 50.97,
+      "reference_price": 169.9,
+      "discount": 70,
+      "first_seen": 1795736845,
+      "last_seen": 1795736845,
+      "last_notified": null
+    },
+    "cd6a3dacd6319fcae22b62a37555ba3bfc282041e15b0155ef45837b7f3a0148": {
+      "title": "BASEMENT",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883847793/blazer-lino/883847795",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 59.97,
+      "reference_price": 199.9,
+      "discount": 70,
+      "first_seen": 1795736845,
+      "last_seen": 1795736845,
       "last_notified": null
     }
   }
