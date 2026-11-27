@@ -145,18 +145,6 @@
       "last_seen": 1785599355,
       "last_notified": 1784994645
     },
-    "a759414847b2a4e2e80c83e0035f33275dc293a12a6050569941a1456764963b": {
-      "title": "DIADORA",
-      "url": "https://www.falabella.com.pe/falabella-pe/product/883643576/zapatillas-urbanas-hombre-diadora/883643580",
-      "source": "Falabella - Zapatillas",
-      "seller": "FALABELLA",
-      "current_price": 68.97,
-      "reference_price": 229.9,
-      "discount": 70,
-      "first_seen": 1785023319,
-      "last_seen": 1785398449,
-      "last_notified": 1785023319
-    },
     "57734c0644cca32b1ec96cd774d2517b8f04c85eeb26cfc7bfc55f6ab670f87d": {
       "title": "STARTER",
       "url": "https://www.falabella.com.pe/falabella-pe/product/883649897/zapatillas-urbanas-hombre-starter/883649902",
@@ -3598,7 +3586,7 @@
       "reference_price": 199.9,
       "discount": 70,
       "first_seen": 1794874940,
-      "last_seen": 1795297621,
+      "last_seen": 1795793336,
       "last_notified": 1794874940
     },
     "f6c5ea95e25026c755620d8a863566af13997c7570daf6a6ad8defba3b2c3f77": {
@@ -4054,7 +4042,7 @@
       "reference_price": 179.9,
       "discount": 70,
       "first_seen": 1795297621,
-      "last_seen": 1795367087,
+      "last_seen": 1795793336,
       "last_notified": 1795297621
     },
     "267c9b587d8a08ef5d910ff5b02861a28cb90635e59db3084f2ea534d776026e": {
@@ -4162,7 +4150,7 @@
       "reference_price": 129.9,
       "discount": 73,
       "first_seen": 1795613924,
-      "last_seen": 1795757227,
+      "last_seen": 1795793336,
       "last_notified": null
     },
     "cca0edecea56ee4a3a44a762374719e753af89cef1221a8255767ce4eaba08cf": {
@@ -4247,6 +4235,18 @@
       "discount": 70,
       "first_seen": 1795736845,
       "last_seen": 1795736845,
+      "last_notified": null
+    },
+    "76ded1749a184ed444e9b8b8d5b718a5162ff3d0ba70be02722bcda4c0e37579": {
+      "title": "SYBILLA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883907005/chaqueta-f5ccs550ka/883907006",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 44.97,
+      "reference_price": 149.9,
+      "discount": 70,
+      "first_seen": 1795793336,
+      "last_seen": 1795793336,
       "last_notified": null
     }
   }
