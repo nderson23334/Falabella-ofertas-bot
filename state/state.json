@@ -109,18 +109,6 @@
       "last_seen": 1785586753,
       "last_notified": 1784916553
     },
-    "789ef9d8b95db93374bf29126b2250a41c0d649a13685a2a03d7e8342182e8cf": {
-      "title": "UNIVERSITY CLUB",
-      "url": "https://www.falabella.com.pe/falabella-pe/product/883674731/casaca-plumas-dk-fungi-s/883674749",
-      "source": "Falabella - Moda Mujer",
-      "seller": "FALABELLA",
-      "current_price": 69.9,
-      "reference_price": 249.9,
-      "discount": 72,
-      "first_seen": 1784932470,
-      "last_seen": 1785455225,
-      "last_notified": 1784932470
-    },
     "1f7968aee8f4006fe1c1acb46eb8778ff52454cbf469e1adb82db689bbc01d5c": {
       "title": "UNIVERSITY CLUB",
       "url": "https://www.falabella.com.pe/falabella-pe/product/883674731/casaca-plumas-dk-fungi-s/883686802",
@@ -155,18 +143,6 @@
       "discount": 70,
       "first_seen": 1785066997,
       "last_seen": 1785515185,
-      "last_notified": 1785066997
-    },
-    "1ce3a09bd34e1ef98b6c959c3c857897e61d36992e01de9f73fa7ca1b37545c8": {
-      "title": "DIADORA",
-      "url": "https://www.falabella.com.pe/falabella-pe/product/883643576/zapatillas-urbanas-hombre-diadora/883643578",
-      "source": "Falabella - Zapatillas",
-      "seller": "FALABELLA",
-      "current_price": 68.97,
-      "reference_price": 229.9,
-      "discount": 70,
-      "first_seen": 1785066997,
-      "last_seen": 1785455225,
       "last_notified": 1785066997
     },
     "1db42573f72e9309b030b3f122ae3ea9b775fc64a1e6d8dd04e3afca71ec8647": {
@@ -4198,7 +4174,7 @@
       "reference_price": 149.9,
       "discount": 70,
       "first_seen": 1795793336,
-      "last_seen": 1795823184,
+      "last_seen": 1795842120,
       "last_notified": null
     },
     "a973aab163e2d5fc04199169246e03a6c58ce2dd5d35319258f5ca137bb797d0": {
@@ -4211,6 +4187,42 @@
       "discount": 70,
       "first_seen": 1795823184,
       "last_seen": 1795823184,
+      "last_notified": null
+    },
+    "b32a287062a5cb12edc14456377469e5191e60ccf1eb98e7c6a5b7beeabde6db": {
+      "title": "DOO AUSTRALIA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883846149/poleron-algodon-f4swd460no/883846161",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 38.97,
+      "reference_price": 129.9,
+      "discount": 70,
+      "first_seen": 1795842120,
+      "last_seen": 1795842120,
+      "last_notified": null
+    },
+    "bb2c1dd036afb4c6fc37857f348923fde0399dd0ad65b443ebe528d1dc6d4c57": {
+      "title": "SYBILLA",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883852744/chaqueta-pu-cyber/883852747",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 53.97,
+      "reference_price": 179.9,
+      "discount": 70,
+      "first_seen": 1795842120,
+      "last_seen": 1795842120,
+      "last_notified": null
+    },
+    "f7eaf4e6ac56aa52c1ebc156864202bfd4874e2c3c17148fb5de4cf433351a79": {
+      "title": "DENIMLAB",
+      "url": "https://www.falabella.com.pe/falabella-pe/product/883850255/casaca-mujer-denimlab/883874225",
+      "source": "Falabella - Moda Mujer",
+      "seller": "Falabella",
+      "current_price": 59.97,
+      "reference_price": 199.9,
+      "discount": 70,
+      "first_seen": 1795842120,
+      "last_seen": 1795842120,
       "last_notified": null
     }
   }
